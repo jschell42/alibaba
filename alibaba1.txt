@@ -1,20 +1,26 @@
 Form F-1/A
 Alibaba Group Holding Ltd - BABA
-Filed: August 12, 2014 (period: )
+Filed: August 27, 2014 (period: )
 This filing is a pre-effective amendment to an F-1 filing
 The information contained herein may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information, except to the extent such damages or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
 Table of Contents
-F-1/A - AMENDMENT NO.4 TO FORM F-1
+F-1/A - AMENDMENT NO.5 TO FORM F-1
 PART II
 SIGNATURES
 EXHIBIT INDEX
+EX-10.37 (EX-10.37)
+EX-10.38 (EX-10.38)
+EX-10.39 (EX-10.39)
+EX-10.40 (EX-10.40)
+EX-10.41 (EX-10.41)
+EX-10.42 (EX-10.42)
 EX-23.1 (EX-23.1)
 Table of Contents
-As filed with the Securities and Exchange Commission on August 12, 2014
+As filed with the Securities and Exchange Commission on August 27, 2014
 Registration No. 333-195736
 SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
-Amendment No. 4 to
+Amendment No. 5 to
 Form F-1
 REGISTRATION STATEMENT
 UNDER
@@ -147,39 +153,39 @@ Our History and Corporate Structure
 Selected Consolidated Financial and Operating Data
 84
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
-90
+91
 Business
-139
+149
 Regulation
-195
+205
 Alibaba Partnership
-208
+218
 Our Directors
-213
+223
 Our Executive Officers
-220
-Principal and Selling Shareholders
-228
-Related Party Transactions
 230
+Principal and Selling Shareholders
+238
+Related Party Transactions
+240
 Description of Share Capital
-245
+255
 Description of American Depositary Shares
-261
+271
 Shares Eligible for Future Sale
-270
+280
 Taxation
-272
+282
 Underwriting
-279
+289
 Expenses Related to this Offering
-285
+295
 Legal Matters
-286
+296
 Experts
-286
+296
 Where You Can Find More Information
-287
+297
 Index to Financial Statements
 F-1
 This prospectus contains estimates and information concerning our industry, including market position, market size, and growth rates of the markets in which we participate, that are based on industry publications and reports. This prospectus contains statistical data and estimates published by iResearch, the China Internet Network Information Center, or CNNIC, Forrester Research, Euromonitor International, the National Bureau of Statistics of China, State Post Bureau of the PRC, the School of Social Sciences of Tsinghua University and International Data Corporation, or IDC, including a report titled “Global eCommerce Platforms Ranking by Gross Merchandise Volume”, which we requested IDC to prepare and for which we paid a fee and which we refer to in this prospectus as the IDC GMV Report. This information involves a number of assumptions and limitations, and you are cautioned not to give undue weight to these estimates. We have not independently verified the accuracy or completeness of the data contained in these industry publications and reports. The industry in which we operate is subject to a high degree of uncertainty and risk due to variety of factors, including those described in the “Risk Factors” section. These and other factors could cause results to differ materially from those expressed in these publications and reports.
@@ -193,7 +199,7 @@ Our mission is to make it easy to do business anywhere.
 Our founders started our company to champion small businesses, in the belief that the Internet would level the playing field by enabling small enterprises to leverage innovation and technology to grow and compete more effectively in the domestic and global economies. Our decisions are guided by how they serve our mission over the long-term, not by the pursuit of short-term gains.
 Our Business
 We are the largest online and mobile commerce company in the world in terms of gross merchandise volume in 2013, according to the IDC GMV Report. We operate our ecosystem as a platform for third parties, and we do not engage in direct sales, compete with our merchants or hold inventory.
-We operate Taobao Marketplace, China’s largest online shopping destination, Tmall, China’s largest third-party platform for brands and retailers, in each case in terms of gross merchandise volume, and Juhuasuan, China’s most popular group buying marketplace by its monthly active users, in each case in 2013 according to iResearch. These three marketplaces, which comprise our China retail marketplaces, generated a combined GMV of RMB1,678 billion (US$270 billion) from 255 million active buyers and 8 million active sellers in fiscal year 2014. A significant portion of our customers have begun transacting on our mobile platform, and we are focused on capturing this opportunity. In the three months ended March 31, 2014, mobile GMV accounted for 27.4% of our GMV, up from 19.7% in the preceding three months and from 10.7% in the same period in the previous year.
+We operate Taobao Marketplace, China’s largest online shopping destination, Tmall, China’s largest third-party platform for brands and retailers, in each case in terms of gross merchandise volume, and Juhuasuan, China’s most popular group buying marketplace by its monthly active users, in each case in 2013 according to iResearch. These three marketplaces, which comprise our China retail marketplaces, generated a combined GMV of RMB1,833 billion (US$296 billion) from 279 million active buyers and 8.5 million active sellers in the twelve months ended June 30, 2014. A significant portion of our customers have begun transacting on our mobile platform, and we are focused on capturing this opportunity. In the three months ended June 30, 2014, mobile GMV accounted for 32.8% of our GMV, up from 27.4% in the preceding three months and from 12.0% in the same period in the previous year. The number of mobile MAUs increased from 136 million for the month ended December 31, 2013, to 163 million for the month ended March 31, 2014 and to 188 million for the month ended June 30, 2014.
 In addition to our three China retail marketplaces, which accounted for 81.6% of our revenues in fiscal year 2014, we operate Alibaba.com, China’s largest global online wholesale marketplace in 2013 by revenue, according to iResearch, 1688.com, our China wholesale marketplace, and AliExpress, our global consumer marketplace, as well as provide cloud computing services.
 As a platform, we provide the fundamental technology infrastructure and marketing reach to help businesses leverage the power of the Internet to establish an online presence and conduct commerce with consumers and businesses. We have been a leader in developing online marketplace standards in China. Given the scale we have been able to achieve, an ecosystem has developed around our platform that consists of buyers, sellers, third-party service providers, strategic alliance partners, and investee companies. Our platform and the role we play in connecting buyers and sellers and making it possible for them to do business anytime and anywhere is at the nexus of this ecosystem. Much of our effort, our time and our energy is spent on initiatives that are for the greater good of the ecosystem and the various participants in it. We feel a strong responsibility for the continued development of the ecosystem and we take ownership for this development. Accordingly, we refer to this as “our ecosystem.”
 Our ecosystem has strong self-reinforcing network effects that benefit our marketplace participants, who are invested in our ecosystem’s growth and success. Through this ecosystem, we have transformed how commerce is conducted in China and built a reputation as a trusted partner for the participants in our ecosystem.
@@ -202,7 +208,7 @@ We have made significant investments in proprietary technologies and infrastruct
 Table of Contents
 Through contractual arrangements with Alipay, we offer payment and escrow services for buyers and sellers, providing security, trust and convenience to our users. Since 2011, we have not held any interest in or control over Alipay or its parent company. Following the divestment of our interest in and control over Alipay, effective in the first calendar quarter of 2011, we have maintained long-term commercial arrangements with Alipay, which we believe align both companies’ interests in the success of our ecosystem. We also continue to derive economic benefits from our contractual arrangements with Alipay. For further details regarding our relationship with Alipay and its parent company, including the recent restructuring of our contractual arrangements with them in August 2014, see “Related Party Transactions — Agreements and Transactions Related to Small and Micro Financial Services Company and its Subsidiaries — Ownership of Small and Micro Financial Services Company.”
 We take a platform approach to shipping and delivery by working with third-party logistics service providers through a central logistics information system operated by Zhejiang Cainiao Supply Chain Management Co., Ltd., or China Smart Logistics, our 48%-owned affiliate. Through our acquisition of UCWeb, we are able to leverage its expertise as a developer and operator of mobile web browsers to enhance our mobile offerings beyond e-commerce, such as general mobile search, which gives us access to UCWeb’s large base of mobile users and offers our existing user base additional mobile solutions.
-Our revenue is primarily generated from merchants through online marketing services (via Alimama, our proprietary online marketing platform), commissions on transactions and fees for online services. We also generate revenues through fees from memberships, value-added services and cloud computing services. GMV generated on our China retail marketplaces increased by 55.8% from RMB1,077 billion in fiscal year 2013 to RMB1,678 billion (US$270 billion) in fiscal year 2014. Our total revenue increased by 52.1% from RMB34,517 million in fiscal year 2013 to RMB52,504 million (US$8,446 million) in fiscal year 2014. We do not allocate revenue among each of our China retail marketplaces. Our net income increased by 170.6% from RMB8,649 million in fiscal year 2013 to RMB23,403 million (US$3,764 million) in fiscal year 2014. Our fiscal year ends on March 31.
+Our revenue is primarily generated from merchants through online marketing services (via Alimama, our proprietary online marketing platform), commissions on transactions and fees for online services. We also generate revenues through fees from memberships, value-added services and cloud computing services. GMV generated on our China retail marketplaces increased by 55.8% from RMB1,077 billion in fiscal year 2013 to RMB1,678 billion (US$270 billion) in fiscal year 2014. Our total revenue increased by 52.1% from RMB34,517 million in fiscal year 2013 to RMB52,504 million (US$8,463 million) in fiscal year 2014. Our total revenue increased by 46.3% from RMB10,778 million in the three months ended June 30, 2013 to RMB15,771 million (US$2,542 million) in the same period in 2014. We do not allocate revenue among each of our China retail marketplaces. Our net income increased by 170.6% from RMB8,649 million in fiscal year 2013 to RMB23,403 million (US$3,772 million) in fiscal year 2014. Our net income increased by 179.6% from RMB4,448 million in the three months ended June 30, 2013 to RMB12,438 million (US$2,005 million) in the same period in 2014. For the three months ended June 30, 2014, our net income included a net gain of RMB6,251 million (US$1,008 million) from step-up acquisitions arising from revaluations of previously held equity interest. Our fiscal year ends on March 31.
 Our Key Metrics
 We have experienced significant growth across various key metrics for our China retail marketplaces:
 2
@@ -212,29 +218,27 @@ Table of Contents
 Our business and our ecosystem as a whole have achieved significant scale and size:
 Our Scale and Size
 Scale and Size of Our Ecosystem Participants
-Unless otherwise indicated, all figures in the above charts are for the twelve months ended, or as of, March 31, 2014, and in the case of our scale and size, on our China retail marketplaces.
+Unless otherwise indicated, all figures in the above charts are for the twelve months ended, or as of, June 30, 2014, and in the case of our scale and size, on our China retail marketplaces.
 (1)
-For the three months ended March 31, 2014.
+For the three months ended June 30, 2014.
 (2)
 According to iResearch for the three months ended March 31, 2014.
 (3)
-For the month ended March 31, 2014. Based on the aggregate mobile MAUs of apps that contribute to GMV on our China retail marketplaces.
+For the month ended June 30, 2014. Based on the aggregate mobile MAUs of apps that contribute to GMV on our China retail marketplaces. The number of mobile MAUs increased from 136 million in the month ended December 31, 2013 to 163 million in the month ended March 31, 2014 and to 188 million in the month ended June 30, 2014.
 (4)
-For the twelve months ended December 31, 2013. Representing 54% of the 9.2 billion packages delivered in the twelve months ended December 31, 2013 by delivery services in China meeting certain minimum revenue thresholds, according to the State Post Bureau of the PRC.
+For the twelve months ended June 30, 2014. Representing 54% of the 11.3 billion packages delivered in the twelve months ended June 30, 2014 by delivery services in China meeting certain minimum revenue thresholds, according to the State Post Bureau of the PRC.
 (5)
 Alibaba Cloud Computing processing capability as of December 31, 2013.
 (6)
-The sum of merchants on our (i) China retail marketplaces who paid fees and/or commissions to us in fiscal year 2014, plus (ii) wholesale marketplaces with current paid memberships as of March 31, 2014. A merchant may have more than one paying relationship with us.
+The sum of merchants on our (i) China retail marketplaces who paid fees and/or commissions to us in the twelve months ended June 30, 2014, plus (ii) wholesale marketplaces with current paid memberships as of June 30, 2014. A merchant may have more than one paying relationship with us.
 (7)
-Includes registered countries and territories of (i) buyers that sent at least one inquiry to a seller on Alibaba.com and (ii) buyers that settled at least one transaction on AliExpress through Alipay, in each case in the twelve months ended December 31, 2013, demonstrating the global reach and the potential for cross-border commerce opportunities across our marketplaces.
+Includes registered countries and territories of (i) buyers that sent at least one inquiry to a seller on Alibaba.com and (ii) buyers that settled at least one transaction on AliExpress through Alipay, in each case in the twelve months ended June 30, 2014, demonstrating the global reach and the potential for cross-border commerce opportunities across our marketplaces.
 (8)
-For fiscal year 2014. Approximately 33.9% of Alipay’s total payment volume in fiscal year 2014 represented payments processed for our China retail marketplaces.
+For the twelve months ended June 30, 2014. Approximately 29.7% of Alipay’s total payment volume in the twelve months ended June 30, 2014 represented payments processed for our China retail marketplaces.
 (9)
 Marketing affiliates who received a revenue share from us in the three months ended December 31, 2013.
 (10)
-Based on data provided by our 14 strategic delivery partners as of March 2014.
-(11)
-As of March 31, 2014.
+Based on data provided by our 14 strategic delivery partners as of June 30, 2014.
 4
 Table of Contents
 The Network Effect on and across Our Marketplaces
@@ -287,9 +291,9 @@ interactions among participants create value for one another as our ecosystem ex
 •
 the scope of our ecosystem and the network effects it creates, including the significant buyer traffic generated by our Taobao Marketplace, provide low-cost organic traffic for our other marketplaces and services and significantly reduce our reliance on a sales force for our marketing services.
 •
-Mobile Leadership. We are the leader in mobile commerce in China in terms of mobile retail GMV, with mobile GMV transacted on our China retail marketplaces accounting for 87.2% of total mobile retail GMV in China in the three months ended March 31, 2014, according to iResearch. Our Mobile Taobao App has been the most popular mobile commerce app in China by mobile MAUs every month since August 2012, according to iResearch. We had 163 million mobile MAUs on our China retail marketplaces in March 2014.
+Mobile Leadership. We are the leader in mobile commerce in China in terms of mobile retail GMV, with mobile GMV transacted on our China retail marketplaces accounting for 87.2% of total mobile retail GMV in China in the three months ended March 31, 2014, according to iResearch. Our Mobile Taobao App has been the most popular mobile commerce app in China by mobile MAUs every month since August 2012, according to iResearch. We had 188 million mobile MAUs on our China retail marketplaces in June 2014.
 •
-Scalable Logistics Platform. We offer sellers on our marketplaces the benefits of a distributed and scalable logistics platform and information system to provide high quality delivery services to sellers and buyers on a large scale. Our platform approach helps to address the requirements of facilitating the delivery of packages across a wide range of product categories from millions of sellers to millions of buyers in dispersed locations across China. The scalability of this network was demonstrated by its success in the handling of 156 million packages generated on our Singles Day promotion in 2013 compared to a daily average of 13.7 million packages generated from transactions on our China retail marketplaces in 2013.
+Scalable Logistics Platform. We offer sellers on our marketplaces the benefits of a distributed and scalable logistics platform and information system to provide high quality delivery services to sellers and buyers on a large scale. Our platform approach helps to address the requirements of facilitating the delivery of packages across a wide range of product categories from millions of sellers to millions of buyers in dispersed locations across China. The scalability of this network was demonstrated by its success in the handling of 156 million packages generated on our Singles Day promotion in 2013 compared to a daily average of 16.6 million packages generated from transactions on our China retail marketplaces in the twelve months ended June 30, 2014.
 •
 Reliable, Scalable and Cost-effective Proprietary Technology. We have developed proprietary technology that is reliable, scalable and cost-effective. Our technology is designed to handle the large volume of transactions on our marketplaces. For example, we successfully processed 254 million orders within 24 hours during our Singles Day promotion on November 11, 2013.
 •
@@ -299,10 +303,9 @@ Third-party Platform Business Model. Our exclusively third-party platform busine
 Our Strategies
 The key elements of our strategy to grow our business include:
 •
-Increase Active Buyers and Wallet Share. In fiscal year 2014, the average active buyer on our China retail marketplaces placed 50 orders, up from 42 orders in fiscal year 2013 and 34 orders in fiscal year 2012. We will continue to develop and market the value proposition of our retail marketplaces to attract new buyers as well as to increase the wallet share of existing buyers through more frequent buying and buying across more product categories. We intend to achieve growth through customer loyalty programs, high quality customer service, marketing and promotional campaigns, and expansion
+Increase Active Buyers and Wallet Share. In the twelve months ended June 30, 2014, the average active buyer on our China retail marketplaces placed 52 orders, up from 45 orders in the same period in 2013 and 35 orders in the same period in 2012. We will continue to develop and market the value proposition of our retail marketplaces to attract new buyers as well as to increase the wallet share of existing buyers through more frequent buying and buying across more product categories. We intend to achieve growth through customer loyalty programs, high quality customer service, marketing and promotional campaigns, and expansion of marketing affiliates, as well as by promoting the usage of our various mobile commerce apps such as our Mobile Taobao App.
 7
 Table of Contents
-of marketing affiliates, as well as by promoting the usage of our various mobile commerce apps such as our Mobile Taobao App.
 •
 Expand Categories and Offerings. We aim to enhance the shopping experience for consumers, increase consumer engagement and create additional opportunities for merchants by developing and promoting additional categories and offerings. We believe that growth in the number of product and service categories and products and services purchased within each category contributes to higher average spending per customer and increases GMV.
 •
@@ -316,10 +319,9 @@ Develop Cross-border Commerce Opportunities. Our international strategy is focus
 Alibaba Partnership
 Since our founders first gathered in Jack Ma’s apartment in 1999, they and our management have acted in the spirit of partnership. We view our culture as fundamental to our success and our ability to serve our customers, develop our employees and deliver long-term value to our shareholders. In July 2010, in order to preserve this spirit of partnership and to ensure the sustainability of our mission, vision and values, we decided to formalize this partnership as Lakeside Partners, named after the “Lakeside Gardens” residential community where Jack and our other founders started our company. We refer to the partnership as the Alibaba Partnership.
 We believe that our partnership approach has helped us to better manage our business, with the peer nature of the partnership enabling senior managers to collaborate and override bureaucracy and hierarchy. The Alibaba Partnership currently has 27 members comprised of 22 members of our management, four members of management of Small and Micro Financial Services Company and one member of management of China Smart Logistics. Two partners who are members of our management are also members of management of Small and Micro Financial Services Company. The partnership operates under principles, policies and procedures that have evolved with our business and are described below.
-Our partnership is a dynamic body that rejuvenates itself through admission of new partners each year, which we believe enhances our excellence, innovation and sustainability. Unlike dual-class ownership structures
+Our partnership is a dynamic body that rejuvenates itself through admission of new partners each year, which we believe enhances our excellence, innovation and sustainability. Unlike dual-class ownership structures that employ a high-vote class of shares to concentrate control in a few founders, our approach is designed to embody the vision of a large group of management partners. This structure is our solution for preserving the culture shaped by our founders while at the same time accounting for the fact that founders will inevitably retire from the company.
 8
 Table of Contents
-that employ a high-vote class of shares to concentrate control in a few founders, our approach is designed to embody the vision of a large group of management partners. This structure is our solution for preserving the culture shaped by our founders while at the same time accounting for the fact that founders will inevitably retire from the company.
 •
 New partners are elected annually after a nomination process based on a number of criteria including, in most cases, not less than five years of tenure with Alibaba Group, Alipay and/or one of our affiliates, and require a 75% approval of all of the partners. Partnership votes are made on a one-partner-one-vote basis.
 •
@@ -340,12 +342,12 @@ our operating philosophy may negatively influence our short-term financial perfo
 we may not be able to successfully monetize our mobile traffic;
 •
 we may not be able to maintain our culture, which has been a key to our success;
-9
-Table of Contents
 •
 we may not be able to innovate or compete effectively;
 •
 if the services Alipay provides to us are limited or restricted, our business would be harmed;
+9
+Table of Contents
 •
 we may not be able to sustain our revenue growth rate, and increased investments in our business may negatively affect our margins;
 •
@@ -378,11 +380,12 @@ Table of Contents
 wholly-foreign owned enterprises, majority-owned entities and variable interest entities. The relevant variable interest entities, which are 100% owned by PRC citizens or by PRC entities owned by PRC citizens, hold the ICP licenses and operate the various websites for our Internet businesses. Specifically, our material variable interest entities are majority-owned by Jack Ma, our lead founder, executive chairman and one of our principal shareholders, and minority-owned by Simon Xie, one of our founders and a vice president on our China investment team where he works on projects related to our China acquisition and investment activities. These contractual arrangements collectively enable us to exercise effective control over, and realize substantially all of the economic risks and benefits arising from, the variable interest entities. See “Our History and Corporate Structure — Contractual Arrangements among Our Wholly-foreign Owned Enterprises, Variable Interest Entities and the Variable Interest Entity Equity Holders.” The contractual arrangements may not be as effective in providing operational control as direct ownership. See “Risk Factors — Risks Related to Our Corporate Structure.”
 As a result, we include the financial results of each of the variable interest entities in our consolidated financial statements in accordance with generally accepted accounting principles in the United States, or U.S. GAAP, as if they were our wholly-owned subsidiaries.
 Other than the ICP licenses and other licenses and approvals for businesses in which foreign ownership is restricted or prohibited held by our variable interest entities, we hold our material assets in, and conduct our material operations through, our wholly-foreign owned and majority foreign owned enterprises, which primarily provide technology and other services to our customers.
-We conduct our business operations across 202 subsidiaries and other consolidated entities. The chart below summarizes our corporate legal structure and identifies our significant subsidiaries as that term is defined under Rule 1-02 of Regulation S-X under the Securities Act, as well as our variable interest entities that are material to our business, and the number of their respective subsidiaries, as of the date of this prospectus:
+We conduct our business operations across 279 subsidiaries and other consolidated entities. The chart below summarizes our corporate legal structure and identifies our significant subsidiaries as that term is defined under Rule 1-02 of Regulation S-X under the Securities Act, as well as our variable interest entities that are material to our business, and the number of their respective subsidiaries, as of the date of this prospectus:
 (1)
-Includes 40 subsidiaries and consolidated entities incorporated in China and 71 subsidiaries incorporated in other jurisdictions that are not illustrated in this chart. In addition, the entities pictured in this chart hold, directly and indirectly, an aggregate of 31 additional subsidiaries incorporated in China and 45 additional subsidiaries incorporated outside of China not pictured in the chart.
+Includes 68 subsidiaries and consolidated entities incorporated in China and 118 subsidiaries incorporated in other jurisdictions that are not illustrated in this chart. In addition, the entities pictured in this chart hold, directly and indirectly, an aggregate of 38 additional
 11
 Table of Contents
+subsidiaries and consolidated entities incorporated in China and 40 additional subsidiaries incorporated outside of China not pictured in the chart.
 (2)
 Primarily involved in the operation of Taobao Marketplace.
 (3)
@@ -395,7 +398,7 @@ Primarily involved in the operation of Alibaba.com, 1688.com and AliExpress.
 Primarily involved in the operation of cloud computing services.
 (7)
 Each of these variable interest entities is 80%-owned by Jack Ma and 20%-owned by Simon Xie, other than Zhejiang Taobao Network Co., Ltd., which is 90%-owned by Jack Ma and 10%-owned by Simon Xie.
-We generate the significant majority of our revenue directly through our wholly-foreign owned enterprises, which directly capture the profits and associated cash flow from operations without having to rely on contractual arrangements to transfer such cash flow from the variable interest entities to the wholly-foreign owned enterprises. In fiscal year 2014, RMB6,170 million (US$993 million), or 11.8%, of our revenue was generated by our variable interest entities, and as of March 31, 2014, RMB18,874 million (US$3,036 million), or 16.9%, of our assets were held by our variable interest entities. These assets included RMB13,159 million (US$2,117 million) in micro loans we made in connection with our SME loan business, which loans were principally funded by borrowings of RMB10,364 million (US$1,667 million). See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Contractual Obligations.”
+We generate the significant majority of our revenue directly through our wholly-foreign owned enterprises, which directly capture the profits and associated cash flow from operations without having to rely on contractual arrangements to transfer such cash flow from the variable interest entities to the wholly-foreign owned enterprises. In fiscal year 2014, RMB6,170 million (US$995 million), or 11.8%, of our revenue was generated by our variable interest entities, and as of March 31, 2014, RMB18,874 million (US$3,042 million), or 16.9%, of our assets were held by our variable interest entities. These assets included RMB13,159 million (US$2,121 million) in micro loans we made in connection with our SME loan business, which loans were principally funded by borrowings of RMB10,364 million (US$1,670 million). See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Contractual Obligations.” We recently agreed to sell the SME loan business to Small and Micro Financial Services Company. The sale is subject to the receipt of certain regulatory approvals and other customary closing conditions. See “Related Party Transactions — Agreements and Transactions Related to Small and Micro Financial Services Company and its Subsidiaries — 2014 Restructuring of Our Relationship with Small and Micro Financial Services Company and Alipay.”
 Our Corporate Information
 The principal executive offices of our main operations are located at 969 West Wen Yi Road, Yu Hang District, Hangzhou 311121, People’s Republic of China. Our telephone number at this address is +86-571-8502-2077. Our registered office in the Cayman Islands is located at the offices of Trident Trust Company (Cayman) Limited, Fourth Floor, One Capital Place, P.O. Box 847, George Town, Grand Cayman, Cayman Islands. Our agent for service of process in the United States is Corporation Service Company located at 1180 Avenue of the Americas, Suite 210, New York, New York 10036. Our corporate website is  www.alibabagroup.com.  The information contained in our websites is not a part of this prospectus.
 Conventions that Apply to this Prospectus
@@ -413,12 +416,12 @@ Unless the context otherwise requires, references in this prospectus to:
 •
 “China” and the “PRC” are to the People’s Republic of China, excluding, for the purposes of this prospectus only, Taiwan and the special administrative regions of Hong Kong and Macau;
 •
-“China retail marketplaces” are to Taobao Marketplace, Tmall and Juhuasuan, collectively. Promotional slots on Juhuasuan may only be purchased by Taobao Marketplace and Tmall merchants, and transactions from traffic originating on Juhuasuan are completed on the merchants’ storefronts on
+“China retail marketplaces” are to Taobao Marketplace, Tmall and Juhuasuan, collectively. Promotional slots on Juhuasuan may only be purchased by Taobao Marketplace and Tmall merchants,
 12
 Table of Contents
-Taobao Marketplace or Tmall. For this reason, depending on the context, we may refer only to Taobao Marketplace and Tmall when discussing certain aspects of our China retail marketplaces business;
+and transactions from traffic originating on Juhuasuan are completed on the merchants’ storefronts on Taobao Marketplace or Tmall. For this reason, depending on the context, we may refer only to Taobao Marketplace and Tmall when discussing certain aspects of our China retail marketplaces business;
 •
-“GMV” are to the value of confirmed orders of products and services on our marketplaces, regardless of how, or whether, the buyer and seller settle the transaction. Unless otherwise stated, GMV in reference to our marketplaces includes only GMV transacted on our China retail marketplaces. GMV generated from traffic through Juhuasuan is recorded as either Taobao Marketplace GMV or Tmall GMV depending on which of these two marketplaces the transaction is completed. Our calculation of GMV for our China retail marketplaces includes shipping charges paid by buyers to sellers and excludes vehicle and property transactions with list prices exceeding RMB500,000 (US$80,432) and any other products or services with list prices above RMB100,000 (US$16,086), as well as transactions conducted by buyers who make purchases exceeding RMB1,000,000 (US$160,865) in the aggregate in a single day;
+“GMV” are to the value of confirmed orders of products and services on our marketplaces, regardless of how, or whether, the buyer and seller settle the transaction. Unless otherwise stated, GMV in reference to our marketplaces includes only GMV transacted on our China retail marketplaces. GMV generated from traffic through Juhuasuan is recorded as either Taobao Marketplace GMV or Tmall GMV depending on which of these two marketplaces the transaction is completed. Our calculation of GMV for our China retail marketplaces includes shipping charges paid by buyers to sellers and excludes vehicle and property transactions with list prices exceeding RMB500,000 (US$80,598) and any other products or services with list prices above RMB100,000 (US$16,120), as well as transactions conducted by buyers who make purchases exceeding RMB1,000,000 (US$161,197) in the aggregate in a single day;
 •
 “ISVs” are to independent software vendors;
 •
@@ -427,6 +430,8 @@ Taobao Marketplace or Tmall. For this reason, depending on the context, we may r
 “mobile MAUs” in a given month are to the number of unique mobile devices that were used to visit or access certain of our mobile applications at least once during that month;
 •
 “mobile monetization rate” are to mobile revenue from China commerce retail expressed as a percentage of mobile GMV for a given period;
+•
+“mobile revenue” are to that portion of revenue generated by online marketing services delivered on a mobile app or WAP website, and commissions on mobile GMV settled through Alipay, as captured by our online auction system, real-time bidding system and other settlement systems;
 •
 “monetization rate” are to revenue from China commerce retail expressed as a percentage of GMV for a given period;
 •
@@ -463,17 +468,17 @@ Table of Contents
 “Yahoo” are to Yahoo! Inc. and Yahoo! Hong Kong Holdings Limited, collectively; and
 •
 “US$,” “dollars” and “U.S. dollars” are to the legal currency of the United States.
-Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2164 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on March 31, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On August 8, 2014, the noon buying rate for Renminbi was RMB6.1557 to US$1.00.
-The number of our ordinary shares that will be outstanding after this offering is calculated based on 2,327,539,776 ordinary shares (which includes conversion of all outstanding convertible preference shares and 9,485,873 issued but unvested restricted shares as of March 31, 2014) outstanding as of March 31, 2014, and excludes:
+Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2036 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on June 30, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On August 22, 2014, the noon buying rate for Renminbi was RMB6.1510 to US$1.00.
+The number of our ordinary shares that will be outstanding after this offering is calculated based on 2,341,316,373 ordinary shares (which includes conversion of all outstanding convertible preference shares and 7,054,073 issued but unvested restricted shares as of June 30, 2014) outstanding as of June 30, 2014, and excludes:
 •
-53,960,029 ordinary shares issuable upon the exercise of outstanding options to purchase ordinary shares as of March 31, 2014;
+53,692,833 ordinary shares issuable upon the exercise of outstanding options to purchase ordinary shares as of June 30, 2014;
 •
-44,438,668 ordinary shares subject to unvested restricted share units, or RSUs, as of March 31, 2014; and
+45,899,831 ordinary shares subject to unvested restricted share units, or RSUs, as of June 30, 2014; and
 •
-an additional 74,854,310 ordinary shares reserved for future issuance under our equity incentive plans.
+an additional 71,562,581 ordinary shares reserved for future issuance under our equity incentive plans.
 Except as otherwise indicated, all information in this prospectus assumes:
 •
-the automatic conversion of all outstanding convertible preference shares into 91,243,243 of our ordinary shares concurrently with the completion of this offering;
+the automatic conversion of all outstanding convertible preference shares into 91,243,312 of our ordinary shares concurrently with the completion of this offering;
 •
 the filing and effectiveness of our amended and restated memorandum and articles of association, which will occur immediately prior to the completion of this offering; and
 •
@@ -515,14 +520,23 @@ Citibank, N.A.
 Table of Contents
 Summary Consolidated Financial and Operating Data
 The summary consolidated statements of operations data for the years ended March 31, 2012, 2013 and 2014 and the summary consolidated balance sheet data as of March 31, 2012, 2013 and 2014 have been derived from our audited consolidated financial statements included elsewhere in this prospectus. Our financial statements have been prepared in accordance with U.S. GAAP.
+The summary consolidated statement of operations data for the three months ended June 30, 2013 and 2014 and the summary consolidated balance sheet data as of June 30, 2014 have been derived from our unaudited interim condensed consolidated financial statements included elsewhere in this prospectus. The unaudited interim condensed consolidated financial statements have been prepared on the same basis as our audited consolidated financial statements and include all normal recurring adjustments that we consider necessary for a fair statement of our financial position and operating results for the periods presented.
 The following summary consolidated financial data for the periods and as of the dates indicated are qualified by reference to and should be read in conjunction with our consolidated financial statements and related notes and “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” both of which are included elsewhere in this prospectus.
 Our historical results for any prior period do not necessarily indicate our results to be expected for any future period.
+17
+Table of Contents
 Summary Consolidated Statements of Operations Data:
 Year ended March 31,
+Three months ended June 30,
 2012
 2013
 2014
+2013
+2014
 RMB
+RMB
+RMB
+US$
 RMB
 RMB
 US$
@@ -532,27 +546,42 @@ China commerce
 15,637
 29,167
 45,132
-7,260
+7,275
+9,193
+13,348
+2,152
 International commerce
 3,765
 4,160
 4,851
-780
+782
+1,117
+1,469
+237
 Cloud computing and Internet infrastructure
 515
 650
 773
-124
+125
+174
+236
+38
 Others
 108
 540
 1,748
-282
+281
+294
+718
+115
 Total
 20,025
 34,517
 52,504
-8,446
+8,463
+10,778
+15,771
+2,542
 Cost of revenue
 (6,554
 ) 
@@ -560,7 +589,13 @@ Cost of revenue
 ) 
 (13,369
 ) 
-(2,151
+(2,155
+) 
+(2,727
+) 
+(4,585
+) 
+(739
 ) 
 Product development expenses
 (2,897
@@ -569,7 +604,13 @@ Product development expenses
 ) 
 (5,093
 ) 
-(819
+(821
+) 
+(1,018
+) 
+(1,952
+) 
+(315
 ) 
 Sales and marketing expenses
 (3,058
@@ -578,16 +619,28 @@ Sales and marketing expenses
 ) 
 (4,545
 ) 
-(731
+(733
 ) 
-General and administrative expenses(1)
+(713
+) 
+(1,212
+) 
+(195
+) 
+General and administrative expenses (1)
 (2,211
 ) 
 (2,889
 ) 
 (4,218
 ) 
-(678
+(679
+) 
+(865
+) 
+(944
+) 
+(152
 ) 
 Amortization of intangible assets
 (155
@@ -598,6 +651,12 @@ Amortization of intangible assets
 ) 
 (51
 ) 
+(35
+) 
+(234
+) 
+(38
+) 
 Impairment of goodwill and intangible assets
 (135
 ) 
@@ -607,22 +666,34 @@ Impairment of goodwill and intangible assets
 ) 
 (7
 ) 
-Yahoo TIPLA amendment payment(2)
+—  
+—  
+—  
+Yahoo TIPLA amendment payment (2)
 —  
 (3,487
 ) 
+—  
+—  
+—  
 —  
 —  
 Income from operations
 5,015
 10,751
 24,920
-4,009
-Interest and investment income, net
+4,017
+5,420
+6,844
+1,103
+Interest and investment income, net (5)
 258
 39
 1,648
-265
+266
+466
+6,828
+1,100
 Interest expense
 (68
 ) 
@@ -630,18 +701,30 @@ Interest expense
 ) 
 (2,195
 ) 
-(353
+(354
+) 
+(1,081
+) 
+(410
+) 
+(66
 ) 
 Other income, net
 327
 894
 2,429
-390
+391
+241
+711
+115
 Income before income tax and share of results of equity investees
 5,532
 10,112
 26,802
-4,311
+4,320
+5,046
+13,973
+2,252
 Income tax expenses
 (842
 ) 
@@ -649,7 +732,13 @@ Income tax expenses
 ) 
 (3,196
 ) 
-(514
+(515
+) 
+(591
+) 
+(1,445
+) 
+(233
 ) 
 Share of results of equity investees
 (25
@@ -660,11 +749,20 @@ Share of results of equity investees
 ) 
 (33
 ) 
+(7
+) 
+(90
+) 
+(14
+) 
 Net income
 4,665
 8,649
 23,403
-3,764
+3,772
+4,448
+12,438
+2,005
 Net income attributable to noncontrolling interests
 (437
 ) 
@@ -674,11 +772,20 @@ Net income attributable to noncontrolling interests
 ) 
 (14
 ) 
+(4
+) 
+(34
+) 
+(6
+) 
 Net income attributable to Alibaba Group Holding Limited
 4,228
 8,532
 23,315
-3,750
+3,758
+4,444
+12,404
+1,999
 Accretion of convertible preference shares
 —  
 (17
@@ -686,6 +793,12 @@ Accretion of convertible preference shares
 (31
 ) 
 (5
+) 
+(8
+) 
+(8
+) 
+(1
 ) 
 Dividends accrued on convertible preference shares
 —  
@@ -695,80 +808,104 @@ Dividends accrued on convertible preference shares
 ) 
 (33
 ) 
+(52
+) 
+(52
+) 
+(8
+) 
 Net income attributable to ordinary shareholders
 4,228
 8,404
 23,076
-3,712
-17
-Table of Contents
-Year ended March 31,
-2012
-2013
-2014
-RMB
-RMB
-RMB
-US$
-(in millions, except per share data)
+3,720
+4,384
+12,344
+1,990
 Earnings per share attributable to ordinary shareholders:
 Basic
 1.71
 3.66
 10.61
 1.71
+2.02
+5.62
+0.91
 Diluted
 1.67
 3.57
 10.00
 1.61
+1.93
+5.20
+0.84
 Pro forma earnings per share attributable to ordinary shareholders: (3)
 Basic
-10.29
-1.66
+5.42
+0.87
 Diluted
-10.00
-1.61
+5.20
+0.84
 Supplemental information:(4)
 Adjusted EBITDA
 7,274
 16,607
 30,731
-4,943
+4,954
+6,094
+8,574
+1,382
 Adjusted net income
 6,452
 13,869
 27,610
-4,440
+4,451
+4,583
+7,317
+1,179
 Free cash flow
 8,752
 19,745
 32,269
-5,190
+5,201
+6,090
+10,594
+1,708
+18
+Table of Contents
 (1)
-In fiscal year 2014, these expenses included an equity-settled donation expense of RMB1,269 million (US$204 million) relating to the grant of options to purchase 50,000,000 of our ordinary shares to a non-profit organization designated by Jack Ma and Joe Tsai.
+In fiscal year 2014, these expenses included an equity-settled donation expense of RMB1,269 million (US$205 million) relating to the grant of options to purchase 50,000,000 of our ordinary shares to a non-profit organization designated by Jack Ma and Joe Tsai.
 (2)
 We entered into the Technology and Intellectual Property Licensing Agreement with Yahoo, or the Yahoo TIPLA, in October 2005, pursuant to which we pay royalty fees to Yahoo. We and Yahoo amended the existing TIPLA in September 2012, pursuant to which we made a lump sum payment in the amount of US$550 million.
 (3)
 Pro forma earnings per share attributable to ordinary shareholders is calculated as if our convertible preference shares had been converted into ordinary shares at the beginning of the period, or when the convertible preference shares were issued, if later.
 (4)
 See “— Non-GAAP Measures” below.
+(5)
+For the three months ended June 30, 2014, includes a net gain of RMB6,251 million (US$1,008 million) from step-up acquisitions arising from revaluations of previously held equity interest. See note 4 to our unaudited interim condensed consolidated financial statements for the three months ended June 30, 2014.
 Non-GAAP Measures
-We use the non-GAAP financial measures of adjusted EBITDA, adjusted net income and free cash flow in evaluating our operating results and for financial and operational decision-making purposes.
-We believe that adjusted EBITDA and adjusted net income help identify underlying trends in our business that could otherwise be distorted by the effect of the expenses that we exclude in adjusted EBITDA and adjusted net income. We believe that adjusted EBITDA and adjusted net income provide useful information about our operating results, enhance the overall understanding of our past performance and future prospects and allow for greater visibility with respect to key metrics used by our management in its financial and operational decision-making.
+We use adjusted EBITDA, adjusted net income and free cash flow, each non-GAAP financial measures, in evaluating our operating results and for financial and operational decision-making purposes.
+We believe that adjusted EBITDA and adjusted net income help identify underlying trends in our business that could otherwise be distorted by the effect of the expenses that we include in income from operations and net income. We believe that adjusted EBITDA and adjusted net income provide useful information about our operating results, enhance the overall understanding of our past performance and future prospects and allow for greater visibility with respect to key metrics used by our management in its financial and operational decision-making.
 We consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by our business that can be used for strategic corporate transactions, including investing in our new business initiatives, making strategic investments and acquisitions and strengthening our balance sheet. We use free cash flow to manage our business, make planning decisions, evaluate our performance and allocate resources. A limitation of the utility of free cash flow as a measure of financial performance is that it does not represent the total increase or decrease in our cash balance for a reporting period.
 Adjusted EBITDA, adjusted net income and free cash flow should not be considered in isolation or construed as an alternative to net income, cash flows or any other measure of performance or as an indicator of our operating performance. Adjusted EBITDA, adjusted net income and free cash flow presented here may not be comparable to similarly titled measures presented by other companies. Other companies may calculate similarly titled measures differently, limiting their usefulness as comparative measures to our data.
-18
+Adjusted EBITDA represents income from operations (which excludes interest and investment income (loss), net, interest expense, other income, net, income tax expenses and share of results of equity investees) before (i) certain non-cash expenses, consisting of share-based compensation expense, amortization, depreciation and impairment of goodwill and intangible assets as well as (ii) one-time expense items consisting of the Yahoo TIPLA amendment payment and an equity-settled donation expense that we do not believe are reflective of our core operating performance during the period presented.
+Adjusted net income represents net income before share-based compensation expense, amortization, impairment of goodwill, intangible assets and investments, gain (loss) on deemed disposals/disposals/revaluation of investments, and one-time expense items consisting of the Yahoo TIPLA amendment payment, as well as an equity-settled donation expense.
+19
 Table of Contents
-Adjusted EBITDA represents income from operations (which excludes interest and investment income (loss), net, interest expense, other income, net, income tax expenses and share of results of equity investees) before (i) certain non-cash expenses, consisting of share-based compensation expense, amortization of intangible assets, depreciation and impairment of goodwill and intangible assets as well as (ii) one-time expense items consisting of the Yahoo TIPLA amendment payment and an equity-settled donation expense that we do not believe are reflective of our core operating performance during the period presented.
-Adjusted net income represents net income before share-based compensation expense, amortization of intangible assets, impairment of goodwill, intangible assets and investments, gain on deemed disposals/disposals of investments, and one-time expense items consisting of the Yahoo TIPLA amendment payment, as well as an equity-settled donation expense.
 Free cash flow represents net cash provided by operating activities as presented in our consolidated cash flow statement less purchases of property and equipment (excluding acquisition of land use rights for, and construction of, our office campuses in China) and intangible assets, adjusted for changes in loan receivables relating to micro loans of our SME loan business and the Yahoo TIPLA amendment payment. We present the adjustment for changes in loan receivables because such receivables are reflected under cash flow from operating activities, whereas the secured borrowings and other bank borrowings used to finance them are reflected under cash flows from financing activities, and accordingly, the adjustment is made to show cash flows from operating activities net of the effect of changes in loan receivables.
 The table below sets forth a reconciliation of our income from operations to adjusted EBITDA for the periods indicated:
 Year ended March 31,
+Three months ended
+ June 30,
 2012
 2013
 2014
+2013
+2014
 RMB
+RMB
+RMB
+US$
 RMB
 RMB
 US$
@@ -777,50 +914,78 @@ Income from operations
 5,015
 10,751
 24,920
-4,009
+4,017
+5,420
+6,844
+1,103
 Add: Share-based compensation expense
 1,254
 1,259
 2,844
-457
+458
+396
+1,073
+173
 Add: Amortization of intangible assets
 155
 130
 315
 51
+35
+234
+38
 Add: Depreciation and amortization of property and equipment and land use rights
 715
 805
 1,339
-215
+216
+243
+423
+68
 Add: Impairment of goodwill and intangible assets
 135
 175
 44
 7
+—  
+—  
+—  
 Add: Yahoo TIPLA amendment payment
 —  
 3,487
+—  
+—  
+—  
 —  
 —  
 Add: Equity-settled donation expense
 —  
 —  
 1,269
-204
+205
+—  
+—  
+—  
 Adjusted EBITDA
 7,274
 16,607
 30,731
-4,943
-19
-Table of Contents
+4,954
+6,094
+8,574
+1,382
 The following table sets forth a reconciliation of our net income to adjusted net income for the periods indicated:
 Year ended March 31,
+Three months ended June 30,
 2012
 2013
 2014
+2013
+2014
 RMB
+RMB
+RMB
+US$
 RMB
 RMB
 US$
@@ -829,172 +994,7 @@ Net income
 4,665
 8,649
 23,403
-3,764
-Add: Share-based compensation expense
-1,254
-1,259
-2,844
-457
-Add: Amortization of intangible assets
-155
-130
-315
-51
-Add: Impairment of goodwill, intangible assets and investments
-399
-420
-163
-26
-Less: Gain on deemed disposals/disposals of investments
-(21
-) 
-(76
-) 
-(384
-) 
-(62
-) 
-Add: Yahoo TIPLA amendment payment
-—  
-3,487
-—  
-—  
-Add: Equity-settled donation expense
-—  
-—  
-1,269
-204
-Adjusted net income
-6,452
-13,869
-27,610
-4,440
-The following table sets forth a reconciliation of net cash provided by operating activities to free cash flow for the periods indicated:
-Year ended March 31,
-2012
-2013
-2014
-RMB
-RMB
-RMB
-US$
-(in millions)
-Net cash provided by operating activities
-9,275
-14,476
-26,379
-4,242
-Less: Purchase of property, equipment and intangible assets (excluding land use rights and construction in progress)
-(749
-) 
-(1,046
-) 
-(3,285
-) 
-(528
-) 
-Add: Changes in loan receivables, net
-226
-2,828
-9,175
-1,476
-Add: Yahoo TIPLA amendment payment
-—  
-3,487
-—  
-—  
-Free cash flow
-8,752
-19,745
-32,269
-5,190
-20
-Table of Contents
-Summary Consolidated Balance Sheet Data
-As of March 31,
-2012
-2013
-2014
-2014
- (Pro forma) (1)
-2014
- (Pro forma
- as adjusted) (2)
-RMB
-RMB
-RMB
-US$
-RMB
-US$
-RMB
-US$
-(in millions, except for share data)
-Cash and cash equivalents and short-term investments (3)
-21,744
-32,686
-43,632
-7,019
-43,632
-7,019
-Investment securities and investment in equity investees (4)
-2,483
-2,426
-22,131
-3,560
-22,131
-3,560
-Property and equipment, net
-2,463
-3,808
-5,581
-898
-5,581
-898
-Goodwill and intangible assets
-11,791
-11,628
-13,699
-2,204
-13,699
-2,204
-Total assets
-47,210
-63,786
-111,549
-17,944
-111,549
-17,944
-Current bank borrowings
-1,283
-3,350
-1,100
-177
-1,100
-177
-Secured borrowings
-—  
-2,098
-9,264
-1,490
-9,264
-1,490
-Redeemable preference shares
-—  
-5,191
-—  
-—  
-—  
-—  
-Non-current bank borrowings
-—  
-22,462
-30,711
-4,940
-30,711
-4,940
-Total liabilities
-12,797
-52,740
-70,731
-11,378
-70,731
+3,772
+4,448
+12,438
+2,005
