@@ -1,20 +1,20 @@
 Form F-1/A
 Alibaba Group Holding Ltd - BABA
-Filed: July 11, 2014 (period: )
+Filed: August 12, 2014 (period: )
 This filing is a pre-effective amendment to an F-1 filing
 The information contained herein may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information, except to the extent such damages or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
 Table of Contents
-F-1/A - AMENDMENT NO.3 TO FORM F-1
+F-1/A - AMENDMENT NO.4 TO FORM F-1
 PART II
 SIGNATURES
 EXHIBIT INDEX
 EX-23.1 (EX-23.1)
 Table of Contents
-As filed with the Securities and Exchange Commission on July 11, 2014
+As filed with the Securities and Exchange Commission on August 12, 2014
 Registration No. 333-195736
 SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
-Amendment No. 3 to
+Amendment No. 4 to
 Form F-1
 REGISTRATION STATEMENT
 UNDER
@@ -127,59 +127,59 @@ Prospectus Summary
 Risk Factors
 23
 Special Note Regarding Forward-Looking Statements
-65
-Operating Metrics
 66
-Use of Proceeds
+Operating Metrics
 67
-Dividend Policy
+Use of Proceeds
 68
-Capitalization
+Dividend Policy
 69
+Capitalization
+70
 Dilution
-71
+72
 Exchange Rate Information
-73
-Enforcement of Civil Liabilities
 74
+Enforcement of Civil Liabilities
+75
 Our History and Corporate Structure
-76
+77
 Selected Consolidated Financial and Operating Data
-83
+84
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
-89
+90
 Business
-137
+139
 Regulation
-192
+195
 Alibaba Partnership
-205
+208
 Our Directors
-210
+213
 Our Executive Officers
-217
+220
 Principal and Selling Shareholders
-224
+228
 Related Party Transactions
-226
+230
 Description of Share Capital
-234
+245
 Description of American Depositary Shares
-250
-Shares Eligible for Future Sale
-259
-Taxation
 261
+Shares Eligible for Future Sale
+270
+Taxation
+272
 Underwriting
-268
+279
 Expenses Related to this Offering
-274
+285
 Legal Matters
-275
+286
 Experts
-275
+286
 Where You Can Find More Information
-276
+287
 Index to Financial Statements
 F-1
 This prospectus contains estimates and information concerning our industry, including market position, market size, and growth rates of the markets in which we participate, that are based on industry publications and reports. This prospectus contains statistical data and estimates published by iResearch, the China Internet Network Information Center, or CNNIC, Forrester Research, Euromonitor International, the National Bureau of Statistics of China, State Post Bureau of the PRC, the School of Social Sciences of Tsinghua University and International Data Corporation, or IDC, including a report titled “Global eCommerce Platforms Ranking by Gross Merchandise Volume”, which we requested IDC to prepare and for which we paid a fee and which we refer to in this prospectus as the IDC GMV Report. This information involves a number of assumptions and limitations, and you are cautioned not to give undue weight to these estimates. We have not independently verified the accuracy or completeness of the data contained in these industry publications and reports. The industry in which we operate is subject to a high degree of uncertainty and risk due to variety of factors, including those described in the “Risk Factors” section. These and other factors could cause results to differ materially from those expressed in these publications and reports.
@@ -200,7 +200,7 @@ Our ecosystem has strong self-reinforcing network effects that benefit our marke
 We have made significant investments in proprietary technologies and infrastructure in order to support our growing ecosystem. Our technology and infrastructure allow us to harness the substantial volume of data generated from our marketplaces and to further develop and optimize the products and services offered on our platform.
 1
 Table of Contents
-Through contractual arrangements with Alipay, we offer payment and escrow services for buyers and sellers, providing security, trust and convenience to our users. Since 2011, we have not held any interest in or control over Alipay or its parent company. Following the divestment of our interest in and control over Alipay, effective in the first calendar quarter of 2011, we have maintained long-term commercial arrangements with Alipay, which we believe align both companies’ interests in the success of our ecosystem. We also continue to derive economic benefits from our contractual arrangements with Alipay. For further details regarding our relationship with Alipay and its parent company, see “Related Party Transactions — Agreements and Transactions Related to Small and Micro Financial Services Company and its Subsidiaries — Ownership of Small and Micro Financial Services Company.”
+Through contractual arrangements with Alipay, we offer payment and escrow services for buyers and sellers, providing security, trust and convenience to our users. Since 2011, we have not held any interest in or control over Alipay or its parent company. Following the divestment of our interest in and control over Alipay, effective in the first calendar quarter of 2011, we have maintained long-term commercial arrangements with Alipay, which we believe align both companies’ interests in the success of our ecosystem. We also continue to derive economic benefits from our contractual arrangements with Alipay. For further details regarding our relationship with Alipay and its parent company, including the recent restructuring of our contractual arrangements with them in August 2014, see “Related Party Transactions — Agreements and Transactions Related to Small and Micro Financial Services Company and its Subsidiaries — Ownership of Small and Micro Financial Services Company.”
 We take a platform approach to shipping and delivery by working with third-party logistics service providers through a central logistics information system operated by Zhejiang Cainiao Supply Chain Management Co., Ltd., or China Smart Logistics, our 48%-owned affiliate. Through our acquisition of UCWeb, we are able to leverage its expertise as a developer and operator of mobile web browsers to enhance our mobile offerings beyond e-commerce, such as general mobile search, which gives us access to UCWeb’s large base of mobile users and offers our existing user base additional mobile solutions.
 Our revenue is primarily generated from merchants through online marketing services (via Alimama, our proprietary online marketing platform), commissions on transactions and fees for online services. We also generate revenues through fees from memberships, value-added services and cloud computing services. GMV generated on our China retail marketplaces increased by 55.8% from RMB1,077 billion in fiscal year 2013 to RMB1,678 billion (US$270 billion) in fiscal year 2014. Our total revenue increased by 52.1% from RMB34,517 million in fiscal year 2013 to RMB52,504 million (US$8,446 million) in fiscal year 2014. We do not allocate revenue among each of our China retail marketplaces. Our net income increased by 170.6% from RMB8,649 million in fiscal year 2013 to RMB23,403 million (US$3,764 million) in fiscal year 2014. Our fiscal year ends on March 31.
 Our Key Metrics
@@ -258,7 +258,7 @@ Table of Contents
 Our Market Opportunity
 Our market opportunity is primarily driven by the following factors:
 •
-Our business benefits from the rising spending power of Chinese consumers. China’s real consumption in 2013 was 36.5% of total GDP, which is a rate that is significantly lower than that of other countries, such as the United States, which had a consumption penetration rate of 66.8% in 2013, according to Euromonitor International. We believe that growth in consumption will drive higher levels of online and mobile commerce.
+Our business benefits from the rising spending power of Chinese consumers. China’s real consumption in 2013 was 35.8% of total GDP, which is a rate that is significantly lower than that of other countries, such as the United States, which had a consumption penetration rate of 67.1% in 2013, according to Euromonitor International. We believe that growth in consumption will drive higher levels of online and mobile commerce.
 •
 China’s online shopping population is relatively underpenetrated. According to CNNIC, China had the world’s largest Internet population with 618 million users as of December 31, 2013. According to CNNIC, China had 302 million online shoppers in 2013. We believe the number of online shoppers will increase, driven by continued growth in the number of Internet users as well as by the higher percentage of Internet users making purchases online.
 •
@@ -269,7 +269,7 @@ We believe that the increased usage of mobile devices will make access to the In
 China’s offline retail market faces significant challenges due to few nationwide brick and mortar retailers, an underdeveloped physical retail infrastructure, limited product selection and inconsistent product quality. These challenges in China’s retail infrastructure, which we believe are particularly acute outside of tier 1 and 2 cities, are causing consumers to leapfrog the offline retail market in favor of online and mobile commerce.
 •
 China has an increasingly extensive and rapidly improving logistics infrastructure consisting of nationwide, regional and local delivery services. We believe that the rapid development of China’s distributed logistics infrastructure and nationwide express delivery networks has been driven in part by the growth of e-commerce and will continue to support the unique demands of consumers and merchants conducting e-commerce transactions on marketplaces.
-Overall, online shopping, which represented 7.9% of total China consumption in 2013, is projected to grow at a compound annual growth rate, or CAGR, of 27.2% from 2013 to 2016, according to iResearch, as more consumers shop online and e-commerce spending per consumer increases.
+Overall, online shopping, which represented 8.0% of total China consumption in 2013, is projected to grow at a compound annual growth rate, or CAGR, of 36.1% from 2013 to 2016, according to iResearch, as more consumers shop online and e-commerce spending per consumer increases.
 Our Strengths
 We believe that the following strengths contribute to our success and are differentiating factors that set us apart from our peers.
 •
@@ -287,7 +287,7 @@ interactions among participants create value for one another as our ecosystem ex
 •
 the scope of our ecosystem and the network effects it creates, including the significant buyer traffic generated by our Taobao Marketplace, provide low-cost organic traffic for our other marketplaces and services and significantly reduce our reliance on a sales force for our marketing services.
 •
-Mobile Leadership. We are the leader in mobile commerce in China in terms of mobile retail GMV, with mobile GMV transacted on our China retail marketplaces accounting for 76.4% of total mobile retail GMV in China in the three months ended March 31, 2014, according to iResearch. Our Mobile Taobao App has been the most popular mobile commerce app in China by mobile MAUs every month since August 2012, according to iResearch. We had 163 million mobile MAUs on our China retail marketplaces in March 2014.
+Mobile Leadership. We are the leader in mobile commerce in China in terms of mobile retail GMV, with mobile GMV transacted on our China retail marketplaces accounting for 87.2% of total mobile retail GMV in China in the three months ended March 31, 2014, according to iResearch. Our Mobile Taobao App has been the most popular mobile commerce app in China by mobile MAUs every month since August 2012, according to iResearch. We had 163 million mobile MAUs on our China retail marketplaces in March 2014.
 •
 Scalable Logistics Platform. We offer sellers on our marketplaces the benefits of a distributed and scalable logistics platform and information system to provide high quality delivery services to sellers and buyers on a large scale. Our platform approach helps to address the requirements of facilitating the delivery of packages across a wide range of product categories from millions of sellers to millions of buyers in dispersed locations across China. The scalability of this network was demonstrated by its success in the handling of 156 million packages generated on our Singles Day promotion in 2013 compared to a daily average of 13.7 million packages generated from transactions on our China retail marketplaces in 2013.
 •
@@ -362,7 +362,7 @@ In 1999, we founded Alibaba.com and Alibaba.com.cn, the predecessor of 1688.com.
 •
 In 2003, we launched Taobao Marketplace.
 •
-In 2004, we established Alipay to address the issue of trust between buyers and sellers online. We have continued to offer payment and escrow services on our marketplaces through Alipay following divestment of our interest in and control over Alipay in 2011. This divestment resulted from our management’s response to regulations issued in June 2010 by the People’s Bank of China, or the PBOC, that required non-bank payment companies to obtain a payment business license before September 1, 2011. These regulations provided specific guidelines for license applications only for domestic PRC-owned entities but stated that specific guidelines applicable to license applications for foreign-invested payment entities would be issued separately (although no such guidelines have been issued as of the date of this prospectus). Accordingly, our management restructured the ownership and control of Alipay into a company wholly-owned by PRC nationals in order to obtain a payment business license within the time period prescribed by the PBOC regulations.
+In 2004, we established Alipay to address the issue of trust between buyers and sellers online. We have continued to offer payment and escrow services on our marketplaces through Alipay following divestment of our interest in and control over Alipay in 2011. This divestment resulted from our management’s response to regulations issued in June 2010 by the People’s Bank of China, or the PBOC, that required non-bank payment companies to obtain a payment business license before September 1, 2011. These regulations provided specific guidelines for license applications only for domestic PRC-owned entities but stated that specific guidelines applicable to license applications for foreign-invested payment entities would be issued separately (although no such guidelines have been issued as of the date of this prospectus). Accordingly, our management restructured the ownership and control of Alipay into a company wholly-owned by PRC nationals in order to obtain a payment business license within the time period prescribed by the PBOC regulations. In August 2014, we entered into a share and asset purchase agreement, or the 2014 SAPA, with Small and Micro Financial Services Company and the other parties to the 2011 restructuring, pursuant to which we further restructured the contractual arrangements between us and Small and Micro Financial Services Company.
 •
 In 2007, we launched Alimama, our online marketing technology platform.
 •
@@ -375,7 +375,7 @@ Alibaba Group Holding Limited is a Cayman Islands holding company established on
 Due to PRC legal restrictions on foreign ownership and investment in, among other areas, value-added telecommunications services, which include Internet content providers, or ICPs, we, similar to all other entities with foreign-incorporated holding company structures operating in our industry in China, operate our Internet businesses and other businesses in which foreign investment is restricted or prohibited in the PRC through
 10
 Table of Contents
-wholly-foreign owned enterprises, majority-owned entities and variable interest entities. The relevant variable interest entities, which are 100% owned by PRC citizens or by PRC entities owned by PRC citizens, hold the ICP licenses and operate the various websites for our Internet businesses. Specifically, our material variable interest entities are majority-owned by Jack Ma, our lead founder, executive chairman and one of our principal shareholders, and minority-owned by Simon Xie, one of our founders and a member of our management. These contractual arrangements collectively enable us to exercise effective control over, and realize substantially all of the economic risks and benefits arising from, the variable interest entities. See “Our History and Corporate Structure — Contractual Arrangements among Our Wholly-foreign Owned Enterprises, Variable Interest Entities and the Variable Interest Entity Equity Holders.” The contractual arrangements may not be as effective in providing operational control as direct ownership. See “Risk Factors — Risks Related to Our Corporate Structure.”
+wholly-foreign owned enterprises, majority-owned entities and variable interest entities. The relevant variable interest entities, which are 100% owned by PRC citizens or by PRC entities owned by PRC citizens, hold the ICP licenses and operate the various websites for our Internet businesses. Specifically, our material variable interest entities are majority-owned by Jack Ma, our lead founder, executive chairman and one of our principal shareholders, and minority-owned by Simon Xie, one of our founders and a vice president on our China investment team where he works on projects related to our China acquisition and investment activities. These contractual arrangements collectively enable us to exercise effective control over, and realize substantially all of the economic risks and benefits arising from, the variable interest entities. See “Our History and Corporate Structure — Contractual Arrangements among Our Wholly-foreign Owned Enterprises, Variable Interest Entities and the Variable Interest Entity Equity Holders.” The contractual arrangements may not be as effective in providing operational control as direct ownership. See “Risk Factors — Risks Related to Our Corporate Structure.”
 As a result, we include the financial results of each of the variable interest entities in our consolidated financial statements in accordance with generally accepted accounting principles in the United States, or U.S. GAAP, as if they were our wholly-owned subsidiaries.
 Other than the ICP licenses and other licenses and approvals for businesses in which foreign ownership is restricted or prohibited held by our variable interest entities, we hold our material assets in, and conduct our material operations through, our wholly-foreign owned and majority foreign owned enterprises, which primarily provide technology and other services to our customers.
 We conduct our business operations across 202 subsidiaries and other consolidated entities. The chart below summarizes our corporate legal structure and identifies our significant subsidiaries as that term is defined under Rule 1-02 of Regulation S-X under the Securities Act, as well as our variable interest entities that are material to our business, and the number of their respective subsidiaries, as of the date of this prospectus:
@@ -438,7 +438,7 @@ Taobao Marketplace or Tmall. For this reason, depending on the context, we may r
 •
 “RMB” and “Renminbi” are to the legal currency of China;
 •
-“Small and Micro Financial Services Company” are to Zhejiang Alibaba E-Commerce Co., Ltd., a company organized under the laws of the PRC;
+“Small and Micro Financial Services Company” are to Zhejiang Ant Small and Micro Financial Services Group Co., Ltd. (formerly known as Zhejiang Alibaba E-Commerce Co., Ltd.), a company organized under the laws of the PRC;
 •
 “SMEs” are to small- and medium-sized enterprises;
 •
@@ -463,7 +463,7 @@ Table of Contents
 “Yahoo” are to Yahoo! Inc. and Yahoo! Hong Kong Holdings Limited, collectively; and
 •
 “US$,” “dollars” and “U.S. dollars” are to the legal currency of the United States.
-Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2164 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on March 31, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On July 3, 2014, the noon buying rate for Renminbi was RMB6.2115 to US$1.00.
+Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2164 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on March 31, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On August 8, 2014, the noon buying rate for Renminbi was RMB6.1557 to US$1.00.
 The number of our ordinary shares that will be outstanding after this offering is calculated based on 2,327,539,776 ordinary shares (which includes conversion of all outstanding convertible preference shares and 9,485,873 issued but unvested restricted shares as of March 31, 2014) outstanding as of March 31, 2014, and excludes:
 •
 53,960,029 ordinary shares issuable upon the exercise of outstanding options to purchase ordinary shares as of March 31, 2014;
@@ -492,10 +492,10 @@ Ordinary shares outstanding immediately after this offering
 Option to purchase additional ADSs
 We and certain selling shareholders have granted to the underwriters an option, exercisable for 30 days from the date of this prospectus, to purchase up to an aggregate of              additional ADSs at the initial public offering price, less underwriting discounts and commissions.
 The ADSs
-Each ADS represents              ordinary shares. The ADSs will be evidenced by ADRs.
-The depositary will be the holder of the ordinary shares underlying the ADSs and you will have the rights of an ADR holder as provided in the deposit agreement among us, the depositary and holders and beneficial owners of ADSs from time to time.
+Each ADS represents              ordinary shares.
+The depositary will be the holder of the ordinary shares underlying the ADSs and you will have the rights of an ADS holder as provided in the deposit agreement among us, the depositary and holders and beneficial owners of ADSs from time to time.
 You may surrender your ADSs to the depositary to withdraw the ordinary shares underlying your ADSs. The depositary will charge you a fee for such an exchange.
-We may amend or terminate the deposit agreement for any reason without your consent. Any amendment that imposes or increases fees or charges or which materially prejudices any substantial existing right you have as an ADS holder will not become effective as to outstanding ADSs until 30 days after notice of the amendment is given to ADS holders. If an amendment becomes effective, you will be bound by the deposit agreement as amended if you continue to hold your ADSs.
+We may amend or terminate the deposit agreement for any reason without your consent. Any amendment that imposes or increases fees or certain charges or which materially prejudices any substantial existing right you have as an ADS holder will not become effective as to outstanding ADSs until 30 days after notice of the amendment is given to ADS holders. If an amendment becomes effective, you will be bound by the deposit agreement as amended if you continue to hold your ADSs.
 To better understand the terms of the ADSs, you should carefully read the section in this prospectus entitled “Description of American Depositary Shares.” We also encourage you to read the deposit agreement, which is an exhibit to the registration statement that includes this prospectus.
 Use of proceeds
 We estimate that we will receive net proceeds of approximately US$             million from this offering, assuming an initial public offering price of US$             per ADS, the mid-point of the estimated
@@ -510,6 +510,7 @@ BABA
 Lock-up
 We, our executive officers, directors, the selling shareholders and certain of the other holders of our ordinary shares holding in the aggregate             % of our ordinary shares have agreed with the underwriters not to sell, transfer or dispose of any ADSs, ordinary shares or similar securities for a period of              days after the date of this prospectus subject to certain exceptions. See “Shares Eligible for Future Sale” and “Underwriting.”
 Depositary
+Citibank, N.A.
 16
 Table of Contents
 Summary Consolidated Financial and Operating Data
@@ -997,4 +998,3 @@ Total liabilities
 70,731
 11,378
 70,731
-11,378
