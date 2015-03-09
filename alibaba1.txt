@@ -1,26 +1,29 @@
 Form F-1/A
 Alibaba Group Holding Ltd - BABA
-Filed: August 27, 2014 (period: )
+Filed: September 05, 2014 (period: )
 This filing is a pre-effective amendment to an F-1 filing
 The information contained herein may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information, except to the extent such damages or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
 Table of Contents
-F-1/A - AMENDMENT NO.5 TO FORM F-1
+F-1/A - AMENDMENT NO.6 TO FORM F-1
 PART II
 SIGNATURES
 EXHIBIT INDEX
-EX-10.37 (EX-10.37)
-EX-10.38 (EX-10.38)
-EX-10.39 (EX-10.39)
-EX-10.40 (EX-10.40)
-EX-10.41 (EX-10.41)
-EX-10.42 (EX-10.42)
+EX-3.2 (EX-3.2)
+EX-4.4 (EX-4.4)
+EX-4.13 (EX-4.13)
+EX-10.8 (EX-10.8)
+EX-10.14 (EX-10.14)
+EX-10.43 (EX-10.43)
+EX-10.44 (EX-10.44)
+EX-10.45 (EX-10.45)
 EX-23.1 (EX-23.1)
+EX-99.1 (EX-99.1)
 Table of Contents
-As filed with the Securities and Exchange Commission on August 27, 2014
+As filed with the Securities and Exchange Commission on September 5, 2014
 Registration No. 333-195736
 SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
-Amendment No. 5 to
+Amendment No. 6 to
 Form F-1
 REGISTRATION STATEMENT
 UNDER
@@ -87,17 +90,46 @@ If any of the securities being registered on this Form are to be offered on a de
 If this Form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, please check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering.   ¨
 If this Form is a post-effective amendment filed pursuant to Rule 462(c) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering.   ¨
 If this Form is a post-effective amendment filed pursuant to Rule 462(d) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering.   ¨
+CALCULATION OF REGISTRATION FEE
+Title of Each Class of
+ Securities to be Registered (1)
+Amount
+ to be
+ Registered (2)(3)
+Proposed
+ Maximum
+ Offering Price
+ Per Share (3)
+Proposed
+ Maximum
+ Aggregate
+Offering Price(3)
+Amount of
+ Registration Fee (4)
+Ordinary shares, par value US$0.000025 per share
+368,122,000
+US$66.00
+US$24,296,052,000
+US$3,129,332
+(1)
+American depositary shares, or ADSs, evidenced by American depositary receipts issuable upon deposit of the ordinary shares registered hereby will be registered under a separate registration statement on Form F-6 (Registration No. 333-198401). Each ADS represents one ordinary share.
+(2)
+Includes (a) ordinary shares represented by ADSs that may be purchased by the underwriters pursuant to their option to purchase additional ADSs and (b) all ordinary shares represented by ADSs initially offered or sold outside the United States that are thereafter resold from time to time in the United States. Offers and sales of shares outside the United States are being made pursuant to Regulation S under the Securities Act of 1933 and are not covered by this Registration Statement.
+(3)
+Estimated solely for the purpose of determining the amount of registration fee in accordance with Rule 457(a) under the Securities Act of 1933.
+(4)
+The Registrant previously paid US$128,800 of the total registration fee in connection with the initial filing of the Registration Statement on May 6, 2014.
 The registrant hereby amends this Registration Statement on such date or dates as may be necessary to delay its effective date until the registrant shall file a further amendment which specifically states that this Registration Statement shall thereafter become effective in accordance with Section 8(a) of the Securities Act of 1933, as amended, or until the Registration Statement shall become effective on such date as the Securities and Exchange Commission, acting pursuant to such Section 8(a), may determine.
 Table of Contents
 The information in this preliminary prospectus is not complete and may be changed. Neither we nor the selling shareholders may sell these securities until the registration statement filed with the United States Securities and Exchange Commission is declared effective. This preliminary prospectus is not an offer to sell these securities and it is not soliciting any offer to buy these securities in any jurisdiction where the offer or sale is not permitted.
-Subject to Completion, Dated                     , 2014
-             American Depositary Shares
-Representing              Ordinary Shares
+Subject to Completion, Dated September 5, 2014
+320,106,100 American Depositary Shares
+Representing 320,106,100 Ordinary Shares
 Alibaba Group Holding Limited
-This is the initial public offering of Alibaba Group Holding Limited, or Alibaba Group. We are offering              American Depositary Shares, or ADSs, and the selling shareholders named in this prospectus are offering              ADSs. Each ADS represents              ordinary shares, par value US$0.000025 per share. We expect that the initial public offering price of the ADSs will be between US$             and US$             per ADS. We will not receive any proceeds from the ADSs sold by the selling shareholders.
-Pursuant to our memorandum and articles of association, a partnership, or the Alibaba Partnership, comprised of certain management members of our company, Alipay and China Smart Logistics, will have the exclusive right to nominate a simple majority of the board of directors of our company. See “Alibaba Partnership” and “Description of Share Capital — Ordinary Shares — Nomination, Election and Removal of Directors.”
-Prior to this offering, there has been no public market for our ADSs or ordinary shares. We will apply for listing of our ADSs on the New York Stock Exchange under the symbol “BABA.”
-Investing in our ADSs involves risk. See “Risk Factors” beginning on page 23.
+This is the initial public offering of Alibaba Group Holding Limited, or Alibaba Group. We are offering 123,076,931 American Depositary Shares, or ADSs, and the selling shareholders named in this prospectus, including Yahoo, one of our principal shareholders, Jack Ma, our executive chairman, and Joe Tsai, our executive vice chairman, are offering, in the aggregate, 197,029,169 ADSs. Each ADS represents one ordinary share, par value US$0.000025 per share. We expect that the initial public offering price of the ADSs will be between US$60.00 and US$66.00 per ADS. We will not receive any proceeds from the ADSs sold by the selling shareholders.
+Pursuant to our memorandum and articles of association, a partnership, or the Alibaba Partnership, comprised of certain management members of our company, Small and Micro Financial Services Company and China Smart Logistics, will have the exclusive right to nominate a simple majority of the board of directors of our company. See “Alibaba Partnership” and “Description of Share Capital — Ordinary Shares — Nomination, Election and Removal of Directors.”
+Prior to this offering, there has been no public market for our ADSs or ordinary shares. Our ADSs have been approved for listing on the New York Stock Exchange under the symbol “BABA.”
+Investing in our ADSs involves risk. See “Risk Factors” beginning on page 25.
 Per ADS
 Total
 Price to public
@@ -112,7 +144,7 @@ US$
 Proceeds, before expenses, to the selling shareholders
 US$
 US$
-We and certain selling shareholders have granted the underwriters the right to purchase up to an aggregate of              additional ADSs.
+We, Yahoo, Jack Ma and Joe Tsai have granted the underwriters the right to purchase up to an aggregate of 48,015,900 additional ADSs.
 Neither the United States Securities and Exchange Commission nor any state securities commission or any other regulatory body has approved or disapproved of these securities, or determined if this prospectus is truthful or complete. Any representation to the contrary is a criminal offense.
 The underwriters expect to deliver the ADSs against payment in U.S. dollars to purchasers on or about                     , 2014.
 Credit Suisse
@@ -121,6 +153,20 @@ Goldman Sachs
 J.P. Morgan
 Morgan Stanley
 Citi
+BOCI
+CICC
+        CLSA
+          DBS Bank
+HSBC
+Mizuho
+Pacific Crest    
+RBC                    
+Stifel
+Wells Fargo
+BNP PARIBAS
+Evercore
+Raymond James
+SunTrust Robinson Humphrey
                      , 2014.
 Table of Contents
 Table of Contents
@@ -131,61 +177,63 @@ Page
 Prospectus Summary
 1
 Risk Factors
-23
+25
 Special Note Regarding Forward-Looking Statements
-66
-Operating Metrics
-67
-Use of Proceeds
-68
-Dividend Policy
 69
-Capitalization
+Operating Metrics
 70
-Dilution
+Use of Proceeds
+71
+Dividend Policy
 72
-Exchange Rate Information
-74
-Enforcement of Civil Liabilities
+Capitalization
+73
+Dilution
 75
-Our History and Corporate Structure
+Exchange Rate Information
 77
+Enforcement of Civil Liabilities
+78
+Letter from Jack Ma
+80
+Our History and Corporate Structure
+83
 Selected Consolidated Financial and Operating Data
-84
+93
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
-91
+100
 Business
-149
+160
 Regulation
-205
+216
 Alibaba Partnership
-218
+229
 Our Directors
-223
+235
 Our Executive Officers
-230
+242
 Principal and Selling Shareholders
-238
+250
 Related Party Transactions
-240
-Description of Share Capital
 255
+Description of Share Capital
+272
 Description of American Depositary Shares
-271
+288
 Shares Eligible for Future Sale
-280
-Taxation
-282
-Underwriting
-289
-Expenses Related to this Offering
-295
-Legal Matters
-296
-Experts
-296
-Where You Can Find More Information
 297
+Taxation
+303
+Underwriting
+310
+Expenses Related to this Offering
+317
+Legal Matters
+318
+Experts
+318
+Where You Can Find More Information
+319
 Index to Financial Statements
 F-1
 This prospectus contains estimates and information concerning our industry, including market position, market size, and growth rates of the markets in which we participate, that are based on industry publications and reports. This prospectus contains statistical data and estimates published by iResearch, the China Internet Network Information Center, or CNNIC, Forrester Research, Euromonitor International, the National Bureau of Statistics of China, State Post Bureau of the PRC, the School of Social Sciences of Tsinghua University and International Data Corporation, or IDC, including a report titled “Global eCommerce Platforms Ranking by Gross Merchandise Volume”, which we requested IDC to prepare and for which we paid a fee and which we refer to in this prospectus as the IDC GMV Report. This information involves a number of assumptions and limitations, and you are cautioned not to give undue weight to these estimates. We have not independently verified the accuracy or completeness of the data contained in these industry publications and reports. The industry in which we operate is subject to a high degree of uncertainty and risk due to variety of factors, including those described in the “Risk Factors” section. These and other factors could cause results to differ materially from those expressed in these publications and reports.
@@ -222,7 +270,7 @@ Unless otherwise indicated, all figures in the above charts are for the twelve m
 (1)
 For the three months ended June 30, 2014.
 (2)
-According to iResearch for the three months ended March 31, 2014.
+According to iResearch for the three months ended June 30, 2014.
 (3)
 For the month ended June 30, 2014. Based on the aggregate mobile MAUs of apps that contribute to GMV on our China retail marketplaces. The number of mobile MAUs increased from 136 million in the month ended December 31, 2013 to 163 million in the month ended March 31, 2014 and to 188 million in the month ended June 30, 2014.
 (4)
@@ -291,7 +339,7 @@ interactions among participants create value for one another as our ecosystem ex
 •
 the scope of our ecosystem and the network effects it creates, including the significant buyer traffic generated by our Taobao Marketplace, provide low-cost organic traffic for our other marketplaces and services and significantly reduce our reliance on a sales force for our marketing services.
 •
-Mobile Leadership. We are the leader in mobile commerce in China in terms of mobile retail GMV, with mobile GMV transacted on our China retail marketplaces accounting for 87.2% of total mobile retail GMV in China in the three months ended March 31, 2014, according to iResearch. Our Mobile Taobao App has been the most popular mobile commerce app in China by mobile MAUs every month since August 2012, according to iResearch. We had 188 million mobile MAUs on our China retail marketplaces in June 2014.
+Mobile Leadership. We are the leader in mobile commerce in China in terms of mobile retail GMV, with mobile GMV transacted on our China retail marketplaces accounting for 86.1% of total mobile retail GMV in China in the three months ended June 30, 2014, according to iResearch. Our Mobile Taobao App has been the most popular mobile commerce app in China by mobile MAUs every month since August 2012, according to iResearch. We had 188 million mobile MAUs on our China retail marketplaces in June 2014.
 •
 Scalable Logistics Platform. We offer sellers on our marketplaces the benefits of a distributed and scalable logistics platform and information system to provide high quality delivery services to sellers and buyers on a large scale. Our platform approach helps to address the requirements of facilitating the delivery of packages across a wide range of product categories from millions of sellers to millions of buyers in dispersed locations across China. The scalability of this network was demonstrated by its success in the handling of 156 million packages generated on our Singles Day promotion in 2013 compared to a daily average of 16.6 million packages generated from transactions on our China retail marketplaces in the twelve months ended June 30, 2014.
 •
@@ -317,19 +365,19 @@ Enhance Data and Cloud Computing Technologies. We will continue to implement our
 •
 Develop Cross-border Commerce Opportunities. Our international strategy is focused on leveraging cross-border linkages to our ecosystem that enable foreign brands and merchants to access the Chinese consumer markets without significant capital investments while providing Chinese manufacturers and merchants with a platform to reach businesses and consumers across the world. For example, we will continue to grow our international business by connecting overseas branded retailers to Chinese consumers (Tmall Global) and connecting Chinese suppliers to international retail markets (AliExpress) and international wholesale markets (Alibaba.com).
 Alibaba Partnership
-Since our founders first gathered in Jack Ma’s apartment in 1999, they and our management have acted in the spirit of partnership. We view our culture as fundamental to our success and our ability to serve our customers, develop our employees and deliver long-term value to our shareholders. In July 2010, in order to preserve this spirit of partnership and to ensure the sustainability of our mission, vision and values, we decided to formalize this partnership as Lakeside Partners, named after the “Lakeside Gardens” residential community where Jack and our other founders started our company. We refer to the partnership as the Alibaba Partnership.
-We believe that our partnership approach has helped us to better manage our business, with the peer nature of the partnership enabling senior managers to collaborate and override bureaucracy and hierarchy. The Alibaba Partnership currently has 27 members comprised of 22 members of our management, four members of management of Small and Micro Financial Services Company and one member of management of China Smart Logistics. Two partners who are members of our management are also members of management of Small and Micro Financial Services Company. The partnership operates under principles, policies and procedures that have evolved with our business and are described below.
+Since our founders first gathered in Jack Ma’s apartment in 1999, they and our management have acted in the spirit of partnership. We view our culture as fundamental to our success and our ability to serve our customers, develop our employees and deliver long-term value to our shareholders. In July 2010, in order to preserve this spirit of partnership and to ensure the sustainability of our mission, vision and values, we decided to formalize this partnership as Lakeside Partners, named after the Lakeside Gardens residential community where Jack and our other founders started our company. We refer to the partnership as the Alibaba Partnership.
+We believe that our partnership approach has helped us to better manage our business, with the peer nature of the partnership enabling senior managers to collaborate and override bureaucracy and hierarchy. The Alibaba Partnership currently has 30 members comprised of 24 members of our management, five members of management of Small and Micro Financial Services Company and one member of management of China Smart Logistics. Two partners who are members of our management are also members of management of Small and Micro Financial Services Company. The partnership operates under principles, policies and procedures that have evolved with our business and are described below.
 Our partnership is a dynamic body that rejuvenates itself through admission of new partners each year, which we believe enhances our excellence, innovation and sustainability. Unlike dual-class ownership structures that employ a high-vote class of shares to concentrate control in a few founders, our approach is designed to embody the vision of a large group of management partners. This structure is our solution for preserving the culture shaped by our founders while at the same time accounting for the fact that founders will inevitably retire from the company.
 8
 Table of Contents
 •
-New partners are elected annually after a nomination process based on a number of criteria including, in most cases, not less than five years of tenure with Alibaba Group, Alipay and/or one of our affiliates, and require a 75% approval of all of the partners. Partnership votes are made on a one-partner-one-vote basis.
+New partners are elected annually after a nomination process based on a number of criteria including not less than five years of tenure with Alibaba Group, one of our affiliates and/or certain companies with which we have a significant relationship such as Small and Micro Financial Services Company, and require a 75% approval of all of the partners. Partnership votes are made on a one-partner-one-vote basis.
 •
 Partners are evangelists for our mission, vision and values, both within our organization and externally to customers, business partners and other participants in our ecosystem.
 •
 We require each partner to maintain a meaningful level of equity interests in our company during such individual’s tenure as a partner.
 •
-The Alibaba Partnership will have the exclusive right to nominate for shareholder approval up to a simple majority of the members of our board of directors. If an Alibaba Partnership director nominee is not elected by our shareholders or departs our board of directors for any reason, the Alibaba Partnership has the right to appoint a different person to serve as an interim director until our next scheduled annual general meeting of shareholders. We expect that our initial board of directors upon completion of this offering will consist of nine members, and we have been advised by the Alibaba Partnership that it intends to designate four of those directors as Alibaba Partnership nominees. If at any time our board of directors consists of less than a simple majority of directors nominated or appointed by the Alibaba Partnership for any reason — including because the Alibaba Partnership had previously not exercised its right to nominate or appoint a simple majority of our board of directors — the Alibaba Partnership will be entitled (in its sole discretion and without the need for any additional shareholder approval) to nominate or appoint such number of additional directors as necessary to ensure that the directors nominated or appointed by the Alibaba Partnership comprise a simple majority of our board of directors. For example, as we have been advised that the Alibaba Partnership expects to designate only four out of nine of our initial directors as Alibaba Partnership nominees, the Alibaba Partnership will have the right, following the completion of this offering, to nominate or appoint two additional directors to our board of directors, which would increase the total number of directors to eleven. We expect to enter into a voting agreement that will take effect upon the completion of this offering, pursuant to which both SoftBank and Yahoo will agree to vote their shares in favor of the Alibaba Partnership director nominees at each annual general shareholders meeting. Accordingly, for so long as SoftBank and Yahoo remain substantial shareholders, we expect the Alibaba Partnership nominees will receive a majority of votes cast at any meeting for the election of directors and will be elected as directors.
+The Alibaba Partnership will have the exclusive right to nominate for shareholder approval up to a simple majority of the members of our board of directors. If an Alibaba Partnership director nominee is not elected by our shareholders or departs our board of directors for any reason, the Alibaba Partnership has the right to appoint a different person to serve as an interim director until our next scheduled annual general meeting of shareholders. We expect that our initial board of directors upon completion of this offering will consist of nine members, and the Alibaba Partnership will designate four of those directors as Alibaba Partnership nominees. If at any time our board of directors consists of less than a simple majority of directors nominated or appointed by the Alibaba Partnership for any reason — including because the Alibaba Partnership had previously not exercised its right to nominate or appoint a simple majority of our board of directors — the Alibaba Partnership will be entitled (in its sole discretion and without the need for any additional shareholder approval) to nominate or appoint such number of additional directors as necessary to ensure that the directors nominated or appointed by the Alibaba Partnership comprise a simple majority of our board of directors. For example, as the Alibaba Partnership will designate only four out of nine of our initial directors as Alibaba Partnership nominees, the Alibaba Partnership will have the right, following the completion of this offering, to nominate or appoint two additional directors to our board of directors, which would increase the total number of directors to eleven. We expect to enter into a voting agreement that will take effect upon completion of this offering, pursuant to which both SoftBank and Yahoo will agree to vote their shares in favor of the Alibaba Partnership director nominees at each annual general shareholders meeting until SoftBank’s shareholding declines below 15% of our outstanding ordinary shares. Accordingly, for so long as SoftBank and Yahoo remain substantial shareholders, we expect the Alibaba Partnership nominees will receive a majority of votes cast at any meeting for the election of directors and will be elected as directors.
 Our Challenges
 We believe some of the major risks and uncertainties that may materially and adversely affect us include the following:
 •
@@ -380,12 +428,12 @@ Table of Contents
 wholly-foreign owned enterprises, majority-owned entities and variable interest entities. The relevant variable interest entities, which are 100% owned by PRC citizens or by PRC entities owned by PRC citizens, hold the ICP licenses and operate the various websites for our Internet businesses. Specifically, our material variable interest entities are majority-owned by Jack Ma, our lead founder, executive chairman and one of our principal shareholders, and minority-owned by Simon Xie, one of our founders and a vice president on our China investment team where he works on projects related to our China acquisition and investment activities. These contractual arrangements collectively enable us to exercise effective control over, and realize substantially all of the economic risks and benefits arising from, the variable interest entities. See “Our History and Corporate Structure — Contractual Arrangements among Our Wholly-foreign Owned Enterprises, Variable Interest Entities and the Variable Interest Entity Equity Holders.” The contractual arrangements may not be as effective in providing operational control as direct ownership. See “Risk Factors — Risks Related to Our Corporate Structure.”
 As a result, we include the financial results of each of the variable interest entities in our consolidated financial statements in accordance with generally accepted accounting principles in the United States, or U.S. GAAP, as if they were our wholly-owned subsidiaries.
 Other than the ICP licenses and other licenses and approvals for businesses in which foreign ownership is restricted or prohibited held by our variable interest entities, we hold our material assets in, and conduct our material operations through, our wholly-foreign owned and majority foreign owned enterprises, which primarily provide technology and other services to our customers.
-We conduct our business operations across 279 subsidiaries and other consolidated entities. The chart below summarizes our corporate legal structure and identifies our significant subsidiaries as that term is defined under Rule 1-02 of Regulation S-X under the Securities Act, as well as our variable interest entities that are material to our business, and the number of their respective subsidiaries, as of the date of this prospectus:
+We conduct our business operations across approximately 290 subsidiaries and other consolidated entities. The chart below summarizes our corporate legal structure and identifies our significant subsidiaries as that term is defined under Rule 1-02 of Regulation S-X under the Securities Act, as well as our variable interest entities that are material to our business, and the number of their respective subsidiaries, as of the date of this prospectus:
 (1)
-Includes 68 subsidiaries and consolidated entities incorporated in China and 118 subsidiaries incorporated in other jurisdictions that are not illustrated in this chart. In addition, the entities pictured in this chart hold, directly and indirectly, an aggregate of 38 additional
+Includes approximately 70 subsidiaries and consolidated entities incorporated in China and approximately 120 subsidiaries incorporated in other jurisdictions that are not illustrated in this chart. In addition, the entities pictured in this chart hold, directly and indirectly,
 11
 Table of Contents
-subsidiaries and consolidated entities incorporated in China and 40 additional subsidiaries incorporated outside of China not pictured in the chart.
+an aggregate of approximately 40 additional subsidiaries and consolidated entities incorporated in China and approximately 40 additional subsidiaries incorporated outside of China not pictured in the chart.
 (2)
 Primarily involved in the operation of Taobao Marketplace.
 (3)
@@ -412,14 +460,13 @@ Unless the context otherwise requires, references in this prospectus to:
 •
 “ADRs” are to the American depositary receipts, which, if issued, evidence our ADSs;
 •
-“ADSs” are to our American depositary shares, each of which represents              ordinary shares;
+“ADSs” are to our American depositary shares, each of which represents one ordinary share;
+12
+Table of Contents
 •
 “China” and the “PRC” are to the People’s Republic of China, excluding, for the purposes of this prospectus only, Taiwan and the special administrative regions of Hong Kong and Macau;
 •
-“China retail marketplaces” are to Taobao Marketplace, Tmall and Juhuasuan, collectively. Promotional slots on Juhuasuan may only be purchased by Taobao Marketplace and Tmall merchants,
-12
-Table of Contents
-and transactions from traffic originating on Juhuasuan are completed on the merchants’ storefronts on Taobao Marketplace or Tmall. For this reason, depending on the context, we may refer only to Taobao Marketplace and Tmall when discussing certain aspects of our China retail marketplaces business;
+“China retail marketplaces” are to Taobao Marketplace, Tmall and Juhuasuan, collectively. Promotional slots on Juhuasuan may only be purchased by Taobao Marketplace and Tmall merchants, and transactions from traffic originating on Juhuasuan are completed on the merchants’ storefronts on Taobao Marketplace or Tmall. For this reason, depending on the context, we may refer only to Taobao Marketplace and Tmall when discussing certain aspects of our China retail marketplaces business;
 •
 “GMV” are to the value of confirmed orders of products and services on our marketplaces, regardless of how, or whether, the buyer and seller settle the transaction. Unless otherwise stated, GMV in reference to our marketplaces includes only GMV transacted on our China retail marketplaces. GMV generated from traffic through Juhuasuan is recorded as either Taobao Marketplace GMV or Tmall GMV depending on which of these two marketplaces the transaction is completed. Our calculation of GMV for our China retail marketplaces includes shipping charges paid by buyers to sellers and excludes vehicle and property transactions with list prices exceeding RMB500,000 (US$80,598) and any other products or services with list prices above RMB100,000 (US$16,120), as well as transactions conducted by buyers who make purchases exceeding RMB1,000,000 (US$161,197) in the aggregate in a single day;
 •
@@ -450,12 +497,12 @@ and transactions from traffic originating on Juhuasuan are completed on the merc
 “SoftBank” are to SoftBank Corp., SoftBank BB Corp. and SB China Holdings Pte Ltd., collectively;
 •
 “tier 1 cities” are to the term used by the National Bureau of Statistics of China and refer to Beijing, Shanghai, Shenzhen and Guangzhou;
+13
+Table of Contents
 •
 “tier 2 cities” are to the 32 major cities, other than tier 1 cities, as categorized by the National Bureau of Statistics of China, including provincial capitals, administrative capitals of autonomous regions, direct-controlled municipalities and other major cities designated as “municipalities with independent planning” by the State Council;
 •
 “total payment volume” are to the total value amount of the transactions from, to or through any service, offering, system or platform of Alipay during the period;
-13
-Table of Contents
 •
 “unique daily visitors” are to the number of users who visited our websites per day as measured by (i) in the case of personal computers, the number of users that logged in or, in the case of those who did not log in, the “cookie” tracked on their personal computer device or (ii) in the case of mobile phone devices, the device’s unique identifier;
 •
@@ -468,62 +515,76 @@ Table of Contents
 “Yahoo” are to Yahoo! Inc. and Yahoo! Hong Kong Holdings Limited, collectively; and
 •
 “US$,” “dollars” and “U.S. dollars” are to the legal currency of the United States.
-Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2036 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on June 30, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On August 22, 2014, the noon buying rate for Renminbi was RMB6.1510 to US$1.00.
+Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2036 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on June 30, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On August 29, 2014, the noon buying rate for Renminbi was RMB6.1430 to US$1.00.
 The number of our ordinary shares that will be outstanding after this offering is calculated based on 2,341,316,373 ordinary shares (which includes conversion of all outstanding convertible preference shares and 7,054,073 issued but unvested restricted shares as of June 30, 2014) outstanding as of June 30, 2014, and excludes:
 •
 53,692,833 ordinary shares issuable upon the exercise of outstanding options to purchase ordinary shares as of June 30, 2014;
 •
 45,899,831 ordinary shares subject to unvested restricted share units, or RSUs, as of June 30, 2014; and
 •
-an additional 71,562,581 ordinary shares reserved for future issuance under our equity incentive plans.
+an additional 71,562,581 ordinary shares reserved for future issuance under our equity incentive plans (which includes 13,333,000 ordinary shares issuable upon the exercise of options to purchase ordinary shares and 31,662,768 ordinary shares subject to RSUs granted after June 30, 2014).
 Except as otherwise indicated, all information in this prospectus assumes:
 •
 the automatic conversion of all outstanding convertible preference shares into 91,243,312 of our ordinary shares concurrently with the completion of this offering;
+14
+Table of Contents
 •
 the filing and effectiveness of our amended and restated memorandum and articles of association, which will occur immediately prior to the completion of this offering; and
 •
-no exercise by the underwriters of their option to purchase up to an additional              ADSs representing              ordinary shares from us and certain selling shareholders.
-14
+no exercise by the underwriters of their option to purchase up to an additional 48,015,900 ADSs representing 48,015,900 ordinary shares from us and certain selling shareholders.
+15
 Table of Contents
 THE OFFERING
+Offering price
+We estimate that the initial public offering price will be between US$60.00 and US$66.00 per ADS.
 ADSs offered by us
-             ADSs
+123,076,931 ADSs
 ADSs offered by the selling shareholders
-             ADSs
+197,029,169 ADSs
 ADSs outstanding immediately after this offering
-             ADSs (or              ADSs if the underwriters exercise in full their option to purchase additional ADSs).
+320,106,100 ADSs (or 368,122,000 ADSs if the underwriters exercise in full their option to purchase additional ADSs), not including 128,417,070 of our ordinary shares, representing 5.2% of our outstanding ordinary shares immediately after this offering, that will not be subject to lock-up agreements and may be freely converted into ADSs from time to time.
 Ordinary shares outstanding immediately after this offering
-             ordinary shares.
+2,465,005,966 ordinary shares (based on 2,341,929,035 ordinary shares outstanding immediately prior to this offering).
 Option to purchase additional ADSs
-We and certain selling shareholders have granted to the underwriters an option, exercisable for 30 days from the date of this prospectus, to purchase up to an aggregate of              additional ADSs at the initial public offering price, less underwriting discounts and commissions.
+We and certain selling shareholders have granted to the underwriters an option, exercisable for 30 days from the date of this prospectus, to purchase up to an additional 26,143,903 ADSs from us, up to an additional 18,260,870 ADSs from Yahoo, up to an additional 2,708,345 ADSs from Jack Ma and up to an additional 902,782 ADSs from Joe Tsai.
 The ADSs
-Each ADS represents              ordinary shares.
+Each ADS represents one ordinary share.
 The depositary will be the holder of the ordinary shares underlying the ADSs and you will have the rights of an ADS holder as provided in the deposit agreement among us, the depositary and holders and beneficial owners of ADSs from time to time.
 You may surrender your ADSs to the depositary to withdraw the ordinary shares underlying your ADSs. The depositary will charge you a fee for such an exchange.
 We may amend or terminate the deposit agreement for any reason without your consent. Any amendment that imposes or increases fees or certain charges or which materially prejudices any substantial existing right you have as an ADS holder will not become effective as to outstanding ADSs until 30 days after notice of the amendment is given to ADS holders. If an amendment becomes effective, you will be bound by the deposit agreement as amended if you continue to hold your ADSs.
 To better understand the terms of the ADSs, you should carefully read the section in this prospectus entitled “Description of American Depositary Shares.” We also encourage you to read the deposit agreement, which is an exhibit to the registration statement that includes this prospectus.
-Use of proceeds
-We estimate that we will receive net proceeds of approximately US$             million from this offering, assuming an initial public offering price of US$             per ADS, the mid-point of the estimated
-15
+16
 Table of Contents
-range of the initial public offering price shown on the cover page of this prospectus, after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. We plan to use the net proceeds we will receive from this offering for general corporate purposes.
+Directed Share Program
+At our request, the underwriters have reserved up to 6% of the ADSs being offered by this prospectus (assuming exercise in full by the underwriters of their option to purchase additional ADSs) for sale at the initial public offering price to certain of our directors, executive officers, employees, business associates and members of their families. The directed share program will be administered by Credit Suisse Securities (USA) LLC. We do not know if these individuals will choose to purchase all or any portion of these reserved ADSs, but any purchases they do make will reduce the number of ADSs that are available to the general public. Any reserved ADSs that are not so purchased will be offered by the underwriters to the general public on the same terms as the other ADSs offered by this prospectus.
+Use of proceeds
+We estimate that we will receive net proceeds of approximately US$7,643 million from this offering, assuming an initial public offering price of US$63.00 per ADS, the mid-point of the estimated range of the initial public offering price shown on the cover page of this prospectus, after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. We plan to use the net proceeds we will receive from this offering for general corporate purposes.
 We will not receive any of the proceeds from the sale of the ADSs by the selling shareholders.
 Risk factors
 See “Risk Factors” and other information included in this prospectus for a discussion of the risks relating to investing in our ADSs. You should carefully consider these risks before deciding to invest in our ADSs.
 New York Stock Exchange trading symbol
 BABA
 Lock-up
-We, our executive officers, directors, the selling shareholders and certain of the other holders of our ordinary shares holding in the aggregate             % of our ordinary shares have agreed with the underwriters not to sell, transfer or dispose of any ADSs, ordinary shares or similar securities for a period of              days after the date of this prospectus subject to certain exceptions. See “Shares Eligible for Future Sale” and “Underwriting.”
+We, our directors, independent director appointees and executive officers, the selling shareholders, SoftBank, the partners of the Alibaba Partnership and certain of the other holders of our ordinary shares have agreed with the underwriters to certain lock-up restrictions in respect of our ordinary shares or ADSs, or any securities convertible into or exchangeable or exercisable for any of our ordinary shares or ADSs, for various periods from 90 days up to one year after the date of this prospectus, subject to certain exceptions. Immediately after the completion of this offering, a total of 2,016,482,796 ordinary shares (representing approximately 81.8% of our ordinary shares then issued and outstanding) will be subject to the lock-up agreements and other restrictions on transfer as described under “Shares Eligible for Future Sale” and “Underwriting”. These ordinary shares will become available for sale in the public market during the one-year period following the date of this prospectus as follows:
+•
+91 days after the date of this prospectus, 8,108,115 ordinary shares will be available for sale in the public market;
+17
+Table of Contents
+•
+181 days after the date of this prospectus, 429,052,673 ordinary shares will be available for sale in the public market; and
+•
+366 days after the date of this prospectus, 1,579,322,008 ordinary shares will be available for sale in the public market.
+See “Shares Eligible for Future Sale” and “Underwriting”.
 Depositary
 Citibank, N.A.
-16
+18
 Table of Contents
 Summary Consolidated Financial and Operating Data
 The summary consolidated statements of operations data for the years ended March 31, 2012, 2013 and 2014 and the summary consolidated balance sheet data as of March 31, 2012, 2013 and 2014 have been derived from our audited consolidated financial statements included elsewhere in this prospectus. Our financial statements have been prepared in accordance with U.S. GAAP.
-The summary consolidated statement of operations data for the three months ended June 30, 2013 and 2014 and the summary consolidated balance sheet data as of June 30, 2014 have been derived from our unaudited interim condensed consolidated financial statements included elsewhere in this prospectus. The unaudited interim condensed consolidated financial statements have been prepared on the same basis as our audited consolidated financial statements and include all normal recurring adjustments that we consider necessary for a fair statement of our financial position and operating results for the periods presented.
+The summary consolidated statements of operations data for the three months ended June 30, 2013 and 2014 and the summary consolidated balance sheet data as of June 30, 2014 have been derived from our unaudited interim condensed consolidated financial statements included elsewhere in this prospectus. The unaudited interim condensed consolidated financial statements have been prepared on the same basis as our audited consolidated financial statements and include all normal recurring adjustments that we consider necessary for a fair statement of our financial position and operating results for the periods presented.
 The following summary consolidated financial data for the periods and as of the dates indicated are qualified by reference to and should be read in conjunction with our consolidated financial statements and related notes and “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” both of which are included elsewhere in this prospectus.
 Our historical results for any prior period do not necessarily indicate our results to be expected for any future period.
-17
+19
 Table of Contents
 Summary Consolidated Statements of Operations Data:
 Year ended March 31,
@@ -841,9 +902,13 @@ Diluted
 0.84
 Pro forma earnings per share attributable to ordinary shareholders: (3)
 Basic
+10.29
+1.66
 5.42
 0.87
 Diluted
+10.00
+1.61
 5.20
 0.84
 Supplemental information:(4)
@@ -871,7 +936,7 @@ Free cash flow
 6,090
 10,594
 1,708
-18
+20
 Table of Contents
 (1)
 In fiscal year 2014, these expenses included an equity-settled donation expense of RMB1,269 million (US$205 million) relating to the grant of options to purchase 50,000,000 of our ordinary shares to a non-profit organization designated by Jack Ma and Joe Tsai.
@@ -884,13 +949,13 @@ See “— Non-GAAP Measures” below.
 (5)
 For the three months ended June 30, 2014, includes a net gain of RMB6,251 million (US$1,008 million) from step-up acquisitions arising from revaluations of previously held equity interest. See note 4 to our unaudited interim condensed consolidated financial statements for the three months ended June 30, 2014.
 Non-GAAP Measures
-We use adjusted EBITDA, adjusted net income and free cash flow, each non-GAAP financial measures, in evaluating our operating results and for financial and operational decision-making purposes.
+We use adjusted EBITDA, adjusted net income and free cash flow, each a non-GAAP financial measure, in evaluating our operating results and for financial and operational decision-making purposes.
 We believe that adjusted EBITDA and adjusted net income help identify underlying trends in our business that could otherwise be distorted by the effect of the expenses that we include in income from operations and net income. We believe that adjusted EBITDA and adjusted net income provide useful information about our operating results, enhance the overall understanding of our past performance and future prospects and allow for greater visibility with respect to key metrics used by our management in its financial and operational decision-making.
 We consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by our business that can be used for strategic corporate transactions, including investing in our new business initiatives, making strategic investments and acquisitions and strengthening our balance sheet. We use free cash flow to manage our business, make planning decisions, evaluate our performance and allocate resources. A limitation of the utility of free cash flow as a measure of financial performance is that it does not represent the total increase or decrease in our cash balance for a reporting period.
 Adjusted EBITDA, adjusted net income and free cash flow should not be considered in isolation or construed as an alternative to net income, cash flows or any other measure of performance or as an indicator of our operating performance. Adjusted EBITDA, adjusted net income and free cash flow presented here may not be comparable to similarly titled measures presented by other companies. Other companies may calculate similarly titled measures differently, limiting their usefulness as comparative measures to our data.
 Adjusted EBITDA represents income from operations (which excludes interest and investment income (loss), net, interest expense, other income, net, income tax expenses and share of results of equity investees) before (i) certain non-cash expenses, consisting of share-based compensation expense, amortization, depreciation and impairment of goodwill and intangible assets as well as (ii) one-time expense items consisting of the Yahoo TIPLA amendment payment and an equity-settled donation expense that we do not believe are reflective of our core operating performance during the period presented.
 Adjusted net income represents net income before share-based compensation expense, amortization, impairment of goodwill, intangible assets and investments, gain (loss) on deemed disposals/disposals/revaluation of investments, and one-time expense items consisting of the Yahoo TIPLA amendment payment, as well as an equity-settled donation expense.
-19
+21
 Table of Contents
 Free cash flow represents net cash provided by operating activities as presented in our consolidated cash flow statement less purchases of property and equipment (excluding acquisition of land use rights for, and construction of, our office campuses in China) and intangible assets, adjusted for changes in loan receivables relating to micro loans of our SME loan business and the Yahoo TIPLA amendment payment. We present the adjustment for changes in loan receivables because such receivables are reflected under cash flow from operating activities, whereas the secured borrowings and other bank borrowings used to finance them are reflected under cash flows from financing activities, and accordingly, the adjustment is made to show cash flows from operating activities net of the effect of changes in loan receivables.
 The table below sets forth a reconciliation of our income from operations to adjusted EBITDA for the periods indicated:
@@ -933,68 +998,3 @@ Add: Amortization of intangible assets
 51
 35
 234
-38
-Add: Depreciation and amortization of property and equipment and land use rights
-715
-805
-1,339
-216
-243
-423
-68
-Add: Impairment of goodwill and intangible assets
-135
-175
-44
-7
-—  
-—  
-—  
-Add: Yahoo TIPLA amendment payment
-—  
-3,487
-—  
-—  
-—  
-—  
-—  
-Add: Equity-settled donation expense
-—  
-—  
-1,269
-205
-—  
-—  
-—  
-Adjusted EBITDA
-7,274
-16,607
-30,731
-4,954
-6,094
-8,574
-1,382
-The following table sets forth a reconciliation of our net income to adjusted net income for the periods indicated:
-Year ended March 31,
-Three months ended June 30,
-2012
-2013
-2014
-2013
-2014
-RMB
-RMB
-RMB
-US$
-RMB
-RMB
-US$
-(in millions)
-Net income
-4,665
-8,649
-23,403
-3,772
-4,448
-12,438
-2,005
