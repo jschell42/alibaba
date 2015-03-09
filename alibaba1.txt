@@ -1,36 +1,19 @@
 Form F-1/A
 Alibaba Group Holding Ltd - BABA
-Filed: June 16, 2014 (period: )
+Filed: June 26, 2014 (period: )
 This filing is a pre-effective amendment to an F-1 filing
 The information contained herein may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information, except to the extent such damages or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
 Table of Contents
-F-1/A - AMENDMENT NO.1 TO FORM F-1
+F-1/A - AMENDMENT NO.2 TO FORM F-1
 PART II
 SIGNATURES
 EXHIBIT INDEX
-EX-5.1 (EX-5.1)
-EX-10.9 (EX-10.9)
-EX-10.29 (EX-10.29)
-EX-10.31 (EX-10.31)
-EX-10.32 (EX-10.32)
-EX-10.33 (EX-10.33)
-EX-10.34 (EX-10.34)
-EX-10.35 (EX-10.35)
-EX-10.36 (EX-10.36)
-EX-23.1 (EX-23.1)
-EX-23.4 (EX-23.4)
-EX-23.5 (EX-23.5)
-EX-23.6 (EX-23.6)
-EX-23.7 (EX-23.7)
-EX-23.8 (EX-23.8)
-EX-23.9 (EX-23.9)
-EX-23.10 (EX-23.10)
 Table of Contents
-As filed with the Securities and Exchange Commission on June 16, 2014
+As filed with the Securities and Exchange Commission on June 26, 2014
 Registration No. 333-195736
 SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
-Amendment No. 1 to
+Amendment No. 2 to
 Form F-1
 REGISTRATION STATEMENT
 UNDER
@@ -106,7 +89,7 @@ Representing              Ordinary Shares
 Alibaba Group Holding Limited
 This is the initial public offering of Alibaba Group Holding Limited, or Alibaba Group. We are offering              American Depositary Shares, or ADSs, and the selling shareholders named in this prospectus are offering              ADSs. Each ADS represents              ordinary shares, par value US$0.000025 per share. We expect that the initial public offering price of the ADSs will be between US$             and US$             per ADS. We will not receive any proceeds from the ADSs sold by the selling shareholders.
 Pursuant to our memorandum and articles of association, a partnership, or the Alibaba Partnership, comprised of certain management members of our company and our related companies and affiliates, will have the exclusive right to nominate a simple majority of the board of directors of our company. See “Alibaba Partnership” and “Description of Share Capital — Ordinary Shares — Nomination, Election and Removal of Directors.”
-Prior to this offering, there has been no public market for our ADSs or ordinary shares. We will apply for listing of our ADSs on the New York Stock Exchange or the Nasdaq Global Market under the symbol “            .”
+Prior to this offering, there has been no public market for our ADSs or ordinary shares. We will apply for listing of our ADSs on the New York Stock Exchange under the symbol “BABA.”
 Investing in our ADSs involves risk. See “Risk Factors” beginning on page 22.
 Per ADS
 Total
@@ -257,18 +240,18 @@ The Network Effect on and across Our Marketplaces
 The interactions between buyers and sellers create network effects in that more merchants attract more consumers, and more consumers attract more merchants. In addition, our marketplaces are interconnected in that many buyers and sellers on one marketplace also participate in the activities on our other marketplaces, thereby creating a second-order network effect that further strengthens our ecosystem.
 The chart below depicts this network effect dynamic in our ecosystem.
 Buyers
-•    Chinese consumers buy on Taobao Marketplace, Tmall and Juhuasuan
-•    While browsing or searching on Taobao Marketplace, consumers see product listings from both Taobao Marketplace and Tmall
-•    Global consumers buy on AliExpress
-•    Global wholesalers buy on Alibaba.com
+•   Chinese consumers buy on Taobao Marketplace, Tmall and Juhuasuan
+•   While browsing or searching on Taobao Marketplace, consumers see product listings from both Taobao Marketplace and Tmall
+•   Global consumers buy on AliExpress
+•   Global wholesalers buy on Alibaba.com
 Retail sellers
-•    Small sellers in China sell on Taobao Marketplace and AliExpress
-•    Chinese brands sell on Taobao Marketplace, Tmall, Juhuasuan and AliExpress and global brands sell on Tmall Global
-•    Sellers source products on 1688.com
+•   Small sellers in China sell on Taobao Marketplace and AliExpress
+•   Chinese brands sell on Taobao Marketplace, Tmall, Juhuasuan and AliExpress and global brands sell on Tmall Global
+•   Sellers source products on 1688.com
 Wholesale sellers
-•    Chinese wholesalers and manufacturers supply retail merchants in China on 1688.com and global wholesale buyers on Alibaba.com
-•    Chinese wholesalers and manufacturers supply directly to global consumers on AliExpress
-•    Global wholesalers and manufacturers supply global wholesale buyers on Alibaba.com
+•   Chinese wholesalers and manufacturers supply retail merchants in China on 1688.com and global wholesale buyers on Alibaba.com
+•   Chinese wholesalers and manufacturers supply directly to global consumers on AliExpress
+•   Global wholesalers and manufacturers supply global wholesale buyers on Alibaba.com
 5
 Table of Contents
 Our Market Opportunity
@@ -503,8 +486,8 @@ range of the initial public offering price shown on the cover page of this prosp
 We will not receive any of the proceeds from the sale of the ADSs by the selling shareholders.
 Risk factors
 See “Risk Factors” and other information included in this prospectus for a discussion of the risks relating to investing in our ADSs. You should carefully consider these risks before deciding to invest in our ADSs.
-New York Stock Exchange or Nasdaq
- Global Market trading symbol
+New York Stock Exchange trading symbol
+BABA
 Lock-up
 We, our executive officers, directors, the selling shareholders and certain of the other holders of our ordinary shares holding in the aggregate             % of our ordinary shares have agreed with the underwriters not to sell, transfer or dispose of any ADSs, ordinary shares or similar securities for a period of              days after the date of this prospectus subject to certain exceptions. See “Shares Eligible for Future Sale” and “Underwriting.”
 Depositary
@@ -998,3 +981,20 @@ Total liabilities
 11,378
 Convertible preference shares
 —  
+10,447
+10,284
+1,654
+—  
+—  
+Total Alibaba Group Holding Limited shareholders’ equity (deficits)
+31,488
+(24
+) 
+29,338
+4,719
+39,622
+6,373
+Total equity(5)
+34,383
+513
+30,417
