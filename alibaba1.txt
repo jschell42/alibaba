@@ -1,29 +1,20 @@
 Form F-1/A
 Alibaba Group Holding Ltd - BABA
-Filed: September 05, 2014 (period: )
+Filed: September 15, 2014 (period: )
 This filing is a pre-effective amendment to an F-1 filing
 The information contained herein may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information, except to the extent such damages or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
 Table of Contents
-F-1/A - AMENDMENT NO.6 TO FORM F-1
+F-1/A - AMENDMENT NO.7 TO FORM F-1
 PART II
 SIGNATURES
 EXHIBIT INDEX
-EX-3.2 (EX-3.2)
-EX-4.4 (EX-4.4)
-EX-4.13 (EX-4.13)
-EX-10.8 (EX-10.8)
-EX-10.14 (EX-10.14)
-EX-10.43 (EX-10.43)
-EX-10.44 (EX-10.44)
-EX-10.45 (EX-10.45)
-EX-23.1 (EX-23.1)
-EX-99.1 (EX-99.1)
+EX-1.1 (EX-1.1)
 Table of Contents
-As filed with the Securities and Exchange Commission on September 5, 2014
+As filed with the Securities and Exchange Commission on September 15, 2014
 Registration No. 333-195736
 SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
-Amendment No. 6 to
+Amendment No. 7 to
 Form F-1
 REGISTRATION STATEMENT
 UNDER
@@ -108,9 +99,9 @@ Amount of
  Registration Fee (4)
 Ordinary shares, par value US$0.000025 per share
 368,122,000
-US$66.00
-US$24,296,052,000
-US$3,129,332
+US$68.00
+US$25,032,296,000
+US$3,224,160
 (1)
 American depositary shares, or ADSs, evidenced by American depositary receipts issuable upon deposit of the ordinary shares registered hereby will be registered under a separate registration statement on Form F-6 (Registration No. 333-198401). Each ADS represents one ordinary share.
 (2)
@@ -118,15 +109,15 @@ Includes (a) ordinary shares represented by ADSs that may be purchased by the un
 (3)
 Estimated solely for the purpose of determining the amount of registration fee in accordance with Rule 457(a) under the Securities Act of 1933.
 (4)
-The Registrant previously paid US$128,800 of the total registration fee in connection with the initial filing of the Registration Statement on May 6, 2014.
+The Registrant previously paid an aggregate of US$3,129,332 of the total registration fee in connection with the initial filing of the Registration Statement on May 6, 2014 and the filing of Amendment No. 6 to the Registration Statement on September 5, 2014.
 The registrant hereby amends this Registration Statement on such date or dates as may be necessary to delay its effective date until the registrant shall file a further amendment which specifically states that this Registration Statement shall thereafter become effective in accordance with Section 8(a) of the Securities Act of 1933, as amended, or until the Registration Statement shall become effective on such date as the Securities and Exchange Commission, acting pursuant to such Section 8(a), may determine.
 Table of Contents
 The information in this preliminary prospectus is not complete and may be changed. Neither we nor the selling shareholders may sell these securities until the registration statement filed with the United States Securities and Exchange Commission is declared effective. This preliminary prospectus is not an offer to sell these securities and it is not soliciting any offer to buy these securities in any jurisdiction where the offer or sale is not permitted.
-Subject to Completion, Dated September 5, 2014
+Subject to Completion, Dated September 15, 2014
 320,106,100 American Depositary Shares
 Representing 320,106,100 Ordinary Shares
 Alibaba Group Holding Limited
-This is the initial public offering of Alibaba Group Holding Limited, or Alibaba Group. We are offering 123,076,931 American Depositary Shares, or ADSs, and the selling shareholders named in this prospectus, including Yahoo, one of our principal shareholders, Jack Ma, our executive chairman, and Joe Tsai, our executive vice chairman, are offering, in the aggregate, 197,029,169 ADSs. Each ADS represents one ordinary share, par value US$0.000025 per share. We expect that the initial public offering price of the ADSs will be between US$60.00 and US$66.00 per ADS. We will not receive any proceeds from the ADSs sold by the selling shareholders.
+This is the initial public offering of Alibaba Group Holding Limited, or Alibaba Group. We are offering 123,076,931 American Depositary Shares, or ADSs, and the selling shareholders named in this prospectus, including Yahoo, one of our principal shareholders, Jack Ma, our executive chairman, and Joe Tsai, our executive vice chairman, are offering, in the aggregate, 197,029,169 ADSs. Each ADS represents one ordinary share, par value US$0.000025 per share. We expect that the initial public offering price of the ADSs will be between US$66.00 and US$68.00 per ADS. We will not receive any proceeds from the ADSs sold by the selling shareholders.
 Pursuant to our memorandum and articles of association, a partnership, or the Alibaba Partnership, comprised of certain management members of our company, Small and Micro Financial Services Company and China Smart Logistics, will have the exclusive right to nominate a simple majority of the board of directors of our company. See “Alibaba Partnership” and “Description of Share Capital — Ordinary Shares — Nomination, Election and Removal of Directors.”
 Prior to this offering, there has been no public market for our ADSs or ordinary shares. Our ADSs have been approved for listing on the New York Stock Exchange under the symbol “BABA.”
 Investing in our ADSs involves risk. See “Risk Factors” beginning on page 25.
@@ -236,7 +227,7 @@ Where You Can Find More Information
 319
 Index to Financial Statements
 F-1
-This prospectus contains estimates and information concerning our industry, including market position, market size, and growth rates of the markets in which we participate, that are based on industry publications and reports. This prospectus contains statistical data and estimates published by iResearch, the China Internet Network Information Center, or CNNIC, Forrester Research, Euromonitor International, the National Bureau of Statistics of China, State Post Bureau of the PRC, the School of Social Sciences of Tsinghua University and International Data Corporation, or IDC, including a report titled “Global eCommerce Platforms Ranking by Gross Merchandise Volume”, which we requested IDC to prepare and for which we paid a fee and which we refer to in this prospectus as the IDC GMV Report. This information involves a number of assumptions and limitations, and you are cautioned not to give undue weight to these estimates. We have not independently verified the accuracy or completeness of the data contained in these industry publications and reports. The industry in which we operate is subject to a high degree of uncertainty and risk due to variety of factors, including those described in the “Risk Factors” section. These and other factors could cause results to differ materially from those expressed in these publications and reports.
+This prospectus contains estimates and information concerning our industry, including market position, market size, and growth rates of the markets in which we participate, that are based on industry publications and reports. This prospectus contains statistical data and estimates published by iResearch, the China Internet Network Information Center, or CNNIC, Forrester Research, Euromonitor International, the National Bureau of Statistics of China, State Post Bureau of the PRC, the School of Social Sciences of Tsinghua University and International Data Corporation, or IDC, including a report titled “Global eCommerce Platforms Ranking by Gross Merchandise Volume,” which we requested IDC to prepare and for which we paid a fee and which we refer to in this prospectus as the IDC GMV Report. This information involves a number of assumptions and limitations, and you are cautioned not to give undue weight to these estimates. We have not independently verified the accuracy or completeness of the data contained in these industry publications and reports. The industry in which we operate is subject to a high degree of uncertainty and risk due to variety of factors, including those described in the “Risk Factors” section. These and other factors could cause results to differ materially from those expressed in these publications and reports.
 You should rely only on the information contained in this prospectus. We have not authorized anyone to provide information different from that contained in this prospectus. We are offering to sell, and seeking offers to buy, ADSs only in jurisdictions where offers and sales are permitted. The information contained in this prospectus is accurate only as of the date of this prospectus, regardless of the time of delivery of this prospectus or of any sale of our ADSs.
 Until                     , 2014 (25 days after the date of this prospectus), all dealers that effect transactions in these securities, whether or not participating in this offering, may be required to deliver a prospectus. This is in addition to the dealer’s obligation to deliver a prospectus when acting as an underwriter and with respect to unsold allotments or subscriptions.
 Table of Contents
@@ -515,7 +506,7 @@ Table of Contents
 “Yahoo” are to Yahoo! Inc. and Yahoo! Hong Kong Holdings Limited, collectively; and
 •
 “US$,” “dollars” and “U.S. dollars” are to the legal currency of the United States.
-Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2036 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on June 30, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On August 29, 2014, the noon buying rate for Renminbi was RMB6.1430 to US$1.00.
+Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2036 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on June 30, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On September 5, 2014, the noon buying rate for Renminbi was RMB6.1400 to US$1.00.
 The number of our ordinary shares that will be outstanding after this offering is calculated based on 2,341,316,373 ordinary shares (which includes conversion of all outstanding convertible preference shares and 7,054,073 issued but unvested restricted shares as of June 30, 2014) outstanding as of June 30, 2014, and excludes:
 •
 53,692,833 ordinary shares issuable upon the exercise of outstanding options to purchase ordinary shares as of June 30, 2014;
@@ -536,7 +527,7 @@ no exercise by the underwriters of their option to purchase up to an additional 
 Table of Contents
 THE OFFERING
 Offering price
-We estimate that the initial public offering price will be between US$60.00 and US$66.00 per ADS.
+We estimate that the initial public offering price will be between US$66.00 and US$68.00 per ADS.
 ADSs offered by us
 123,076,931 ADSs
 ADSs offered by the selling shareholders
@@ -558,14 +549,14 @@ Table of Contents
 Directed Share Program
 At our request, the underwriters have reserved up to 6% of the ADSs being offered by this prospectus (assuming exercise in full by the underwriters of their option to purchase additional ADSs) for sale at the initial public offering price to certain of our directors, executive officers, employees, business associates and members of their families. The directed share program will be administered by Credit Suisse Securities (USA) LLC. We do not know if these individuals will choose to purchase all or any portion of these reserved ADSs, but any purchases they do make will reduce the number of ADSs that are available to the general public. Any reserved ADSs that are not so purchased will be offered by the underwriters to the general public on the same terms as the other ADSs offered by this prospectus.
 Use of proceeds
-We estimate that we will receive net proceeds of approximately US$7,643 million from this offering, assuming an initial public offering price of US$63.00 per ADS, the mid-point of the estimated range of the initial public offering price shown on the cover page of this prospectus, after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. We plan to use the net proceeds we will receive from this offering for general corporate purposes.
+We estimate that we will receive net proceeds of approximately US$8,130 million from this offering, assuming an initial public offering price of US$67.00 per ADS, the mid-point of the estimated range of the initial public offering price shown on the cover page of this prospectus, after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. We plan to use the net proceeds we will receive from this offering for general corporate purposes.
 We will not receive any of the proceeds from the sale of the ADSs by the selling shareholders.
 Risk factors
 See “Risk Factors” and other information included in this prospectus for a discussion of the risks relating to investing in our ADSs. You should carefully consider these risks before deciding to invest in our ADSs.
 New York Stock Exchange trading symbol
 BABA
 Lock-up
-We, our directors, independent director appointees and executive officers, the selling shareholders, SoftBank, the partners of the Alibaba Partnership and certain of the other holders of our ordinary shares have agreed with the underwriters to certain lock-up restrictions in respect of our ordinary shares or ADSs, or any securities convertible into or exchangeable or exercisable for any of our ordinary shares or ADSs, for various periods from 90 days up to one year after the date of this prospectus, subject to certain exceptions. Immediately after the completion of this offering, a total of 2,016,482,796 ordinary shares (representing approximately 81.8% of our ordinary shares then issued and outstanding) will be subject to the lock-up agreements and other restrictions on transfer as described under “Shares Eligible for Future Sale” and “Underwriting”. These ordinary shares will become available for sale in the public market during the one-year period following the date of this prospectus as follows:
+We, our directors, independent director appointees and executive officers, the selling shareholders, SoftBank, the partners of the Alibaba Partnership and certain of the other holders of our ordinary shares have agreed with the underwriters to certain lock-up restrictions in respect of our ordinary shares or ADSs, or any securities convertible into or exchangeable or exercisable for any of our ordinary shares or ADSs, for various periods from 90 days up to one year after the date of this prospectus, subject to certain exceptions. Immediately after the completion of this offering, a total of 2,016,482,796 ordinary shares (representing approximately 81.8% of our ordinary shares then issued and outstanding) will be subject to the lock-up agreements and other restrictions on transfer as described under “Shares Eligible for Future Sale” and “Underwriting.” These ordinary shares will become available for sale in the public market during the one-year period following the date of this prospectus as follows:
 •
 91 days after the date of this prospectus, 8,108,115 ordinary shares will be available for sale in the public market;
 17
@@ -574,7 +565,7 @@ Table of Contents
 181 days after the date of this prospectus, 429,052,673 ordinary shares will be available for sale in the public market; and
 •
 366 days after the date of this prospectus, 1,579,322,008 ordinary shares will be available for sale in the public market.
-See “Shares Eligible for Future Sale” and “Underwriting”.
+See “Shares Eligible for Future Sale” and “Underwriting.”
 Depositary
 Citibank, N.A.
 18
@@ -998,3 +989,12 @@ Add: Amortization of intangible assets
 51
 35
 234
+38
+Add: Depreciation and amortization of property and equipment and land use rights
+715
+805
+1,339
+216
+243
+423
+68
