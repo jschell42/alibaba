@@ -1,123 +1,17 @@
-Form F-1/A
+Form 424B4
 Alibaba Group Holding Ltd - BABA
-Filed: September 15, 2014 (period: )
-This filing is a pre-effective amendment to an F-1 filing
+Filed: September 22, 2014 (period: )
+Prospectus filed under Rule 424(b)(4)
 The information contained herein may not be copied, adapted or distributed and is not warranted to be accurate, complete or timely. The user assumes all risks for any damages or losses arising from any use of this information, except to the extent such damages or losses cannot be limited or excluded by applicable law. Past financial performance is no guarantee of future results.
 Table of Contents
-F-1/A - AMENDMENT NO.7 TO FORM F-1
-PART II
-SIGNATURES
-EXHIBIT INDEX
-EX-1.1 (EX-1.1)
+424B4 - 424(B)(4)
 Table of Contents
-As filed with the Securities and Exchange Commission on September 15, 2014
-Registration No. 333-195736
-SECURITIES AND EXCHANGE COMMISSION
-Washington, D.C. 20549
-Amendment No. 7 to
-Form F-1
-REGISTRATION STATEMENT
-UNDER
-THE SECURITIES ACT OF 1933
-Alibaba Group Holding Limited
-(Exact name of Registrant as Specified in its Charter)
-Cayman Islands
-5961
-Not Applicable
-(State or Other Jurisdiction of
-Incorporation or Organization)
-(Primary Standard Industrial
-Classification Code Number)
-(I.R.S. Employer
-Identification Number)
-c/o Alibaba Group Services Limited
-26/F Tower One, Times Square
-1 Matheson Street
-Causeway Bay
-Hong Kong
-Telephone: +852-2215-5100
-(Address and Telephone Number, Including Area Code, of Registrant’s Principal Executive Offices)
-Corporation Service Company
-1180 Avenue of the Americas, Suite 210
-New York, New York 10036
-(800) 927-9801
-(Name, Address, Including Zip Code, and Telephone Number, Including Area Code, of Agent for Service)
-Copies to:
-Timothy A. Steinert, Esq.
-Alibaba Group Holding Limited
-c/o Alibaba Group Services Limited
-26/F Tower One, Times Square
-1 Matheson Street, Causeway Bay
-Hong Kong
-+852-2215-5100
-Leiming Chen, Esq.
-Daniel Fertig, Esq.
-Simpson Thacher & Bartlett LLP
-c/o 35th Floor, ICBC Tower
-3 Garden Road Central
-Hong Kong
-+852-2514-7600
-William H. Hinman, Jr., Esq.
-Simpson Thacher & Bartlett LLP
-2475 Hanover Street
-Palo Alto, California 94304
-U.S.A.
-650-251-5000
-William Y. Chua, Esq.
-Sullivan & Cromwell LLP
-28th Floor
-Nine Queen’s Road Central
-Hong Kong
-+852-2826-8688
-Jay Clayton, Esq.
-Sarah P. Payne, Esq.
-Sullivan & Cromwell LLP
-1870 Embarcadero Road
-Palo Alto, California 94303
-U.S.A.
-650-461-5700
-Approximate date of commencement of proposed sale to the public: As soon as practicable after the effective date of this registration statement.
-If any of the securities being registered on this Form are to be offered on a delayed or continuous basis pursuant to Rule 415 under the Securities Act of 1933, check the following box.   ¨
-If this Form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, please check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering.   ¨
-If this Form is a post-effective amendment filed pursuant to Rule 462(c) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering.   ¨
-If this Form is a post-effective amendment filed pursuant to Rule 462(d) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering.   ¨
-CALCULATION OF REGISTRATION FEE
-Title of Each Class of
- Securities to be Registered (1)
-Amount
- to be
- Registered (2)(3)
-Proposed
- Maximum
- Offering Price
- Per Share (3)
-Proposed
- Maximum
- Aggregate
-Offering Price(3)
-Amount of
- Registration Fee (4)
-Ordinary shares, par value US$0.000025 per share
-368,122,000
-US$68.00
-US$25,032,296,000
-US$3,224,160
-(1)
-American depositary shares, or ADSs, evidenced by American depositary receipts issuable upon deposit of the ordinary shares registered hereby will be registered under a separate registration statement on Form F-6 (Registration No. 333-198401). Each ADS represents one ordinary share.
-(2)
-Includes (a) ordinary shares represented by ADSs that may be purchased by the underwriters pursuant to their option to purchase additional ADSs and (b) all ordinary shares represented by ADSs initially offered or sold outside the United States that are thereafter resold from time to time in the United States. Offers and sales of shares outside the United States are being made pursuant to Regulation S under the Securities Act of 1933 and are not covered by this Registration Statement.
-(3)
-Estimated solely for the purpose of determining the amount of registration fee in accordance with Rule 457(a) under the Securities Act of 1933.
-(4)
-The Registrant previously paid an aggregate of US$3,129,332 of the total registration fee in connection with the initial filing of the Registration Statement on May 6, 2014 and the filing of Amendment No. 6 to the Registration Statement on September 5, 2014.
-The registrant hereby amends this Registration Statement on such date or dates as may be necessary to delay its effective date until the registrant shall file a further amendment which specifically states that this Registration Statement shall thereafter become effective in accordance with Section 8(a) of the Securities Act of 1933, as amended, or until the Registration Statement shall become effective on such date as the Securities and Exchange Commission, acting pursuant to such Section 8(a), may determine.
-Table of Contents
-The information in this preliminary prospectus is not complete and may be changed. Neither we nor the selling shareholders may sell these securities until the registration statement filed with the United States Securities and Exchange Commission is declared effective. This preliminary prospectus is not an offer to sell these securities and it is not soliciting any offer to buy these securities in any jurisdiction where the offer or sale is not permitted.
-Subject to Completion, Dated September 15, 2014
+Filed pursuant to Rule 424(b)(4)
+Registration No. 333-195736
 320,106,100 American Depositary Shares
 Representing 320,106,100 Ordinary Shares
 Alibaba Group Holding Limited
-This is the initial public offering of Alibaba Group Holding Limited, or Alibaba Group. We are offering 123,076,931 American Depositary Shares, or ADSs, and the selling shareholders named in this prospectus, including Yahoo, one of our principal shareholders, Jack Ma, our executive chairman, and Joe Tsai, our executive vice chairman, are offering, in the aggregate, 197,029,169 ADSs. Each ADS represents one ordinary share, par value US$0.000025 per share. We expect that the initial public offering price of the ADSs will be between US$66.00 and US$68.00 per ADS. We will not receive any proceeds from the ADSs sold by the selling shareholders.
+This is the initial public offering of Alibaba Group Holding Limited, or Alibaba Group. We are offering 123,076,931 American Depositary Shares, or ADSs, and the selling shareholders named in this prospectus, including Yahoo, one of our principal shareholders, Jack Ma, our executive chairman, and Joe Tsai, our executive vice chairman, are offering, in the aggregate, 197,029,169 ADSs. Each ADS represents one ordinary share, par value US$0.000025 per share. The initial public offering price of the ADSs is US$68.00 per ADS. We will not receive any proceeds from the ADSs sold by the selling shareholders.
 Pursuant to our memorandum and articles of association, a partnership, or the Alibaba Partnership, comprised of certain management members of our company, Small and Micro Financial Services Company and China Smart Logistics, will have the exclusive right to nominate a simple majority of the board of directors of our company. See “Alibaba Partnership” and “Description of Share Capital — Ordinary Shares — Nomination, Election and Removal of Directors.”
 Prior to this offering, there has been no public market for our ADSs or ordinary shares. Our ADSs have been approved for listing on the New York Stock Exchange under the symbol “BABA.”
 Investing in our ADSs involves risk. See “Risk Factors” beginning on page 25.
@@ -125,19 +19,27 @@ Per ADS
 Total
 Price to public
 US$
+68.00  
 US$
+21,767,214,800
 Underwriting discounts and commissions
 US$
+0.816
 US$
+261,206,578
 Proceeds, before expenses, to us
 US$
+67.184
 US$
+8,268,800,532
 Proceeds, before expenses, to the selling shareholders
 US$
+67.184
 US$
+13,237,207,690
 We, Yahoo, Jack Ma and Joe Tsai have granted the underwriters the right to purchase up to an aggregate of 48,015,900 additional ADSs.
 Neither the United States Securities and Exchange Commission nor any state securities commission or any other regulatory body has approved or disapproved of these securities, or determined if this prospectus is truthful or complete. Any representation to the contrary is a criminal offense.
-The underwriters expect to deliver the ADSs against payment in U.S. dollars to purchasers on or about                     , 2014.
+The underwriters expect to deliver the ADSs against payment in U.S. dollars to purchasers on or about September 24, 2014.
 Credit Suisse
 Deutsche Bank
 Goldman Sachs
@@ -151,14 +53,13 @@ CICC
 HSBC
 Mizuho
 Pacific Crest    
-RBC                    
 Stifel
 Wells Fargo
 BNP PARIBAS
 Evercore
 Raymond James
 SunTrust Robinson Humphrey
-                     , 2014.
+September 18, 2014.
 Table of Contents
 Table of Contents
 Table of Contents
@@ -229,7 +130,7 @@ Index to Financial Statements
 F-1
 This prospectus contains estimates and information concerning our industry, including market position, market size, and growth rates of the markets in which we participate, that are based on industry publications and reports. This prospectus contains statistical data and estimates published by iResearch, the China Internet Network Information Center, or CNNIC, Forrester Research, Euromonitor International, the National Bureau of Statistics of China, State Post Bureau of the PRC, the School of Social Sciences of Tsinghua University and International Data Corporation, or IDC, including a report titled “Global eCommerce Platforms Ranking by Gross Merchandise Volume,” which we requested IDC to prepare and for which we paid a fee and which we refer to in this prospectus as the IDC GMV Report. This information involves a number of assumptions and limitations, and you are cautioned not to give undue weight to these estimates. We have not independently verified the accuracy or completeness of the data contained in these industry publications and reports. The industry in which we operate is subject to a high degree of uncertainty and risk due to variety of factors, including those described in the “Risk Factors” section. These and other factors could cause results to differ materially from those expressed in these publications and reports.
 You should rely only on the information contained in this prospectus. We have not authorized anyone to provide information different from that contained in this prospectus. We are offering to sell, and seeking offers to buy, ADSs only in jurisdictions where offers and sales are permitted. The information contained in this prospectus is accurate only as of the date of this prospectus, regardless of the time of delivery of this prospectus or of any sale of our ADSs.
-Until                     , 2014 (25 days after the date of this prospectus), all dealers that effect transactions in these securities, whether or not participating in this offering, may be required to deliver a prospectus. This is in addition to the dealer’s obligation to deliver a prospectus when acting as an underwriter and with respect to unsold allotments or subscriptions.
+Until October 13, 2014 (25 days after the date of this prospectus), all dealers that effect transactions in these securities, whether or not participating in this offering, may be required to deliver a prospectus. This is in addition to the dealer’s obligation to deliver a prospectus when acting as an underwriter and with respect to unsold allotments or subscriptions.
 Table of Contents
 PROSPECTUS SUMMARY
 This summary highlights selected information contained in greater detail elsewhere in this prospectus. This summary may not contain all of the information that you should consider before investing in our ADSs. You should carefully read the entire prospectus, including “Risk Factors” and the financial statements, before making an investment decision.
@@ -506,7 +407,7 @@ Table of Contents
 “Yahoo” are to Yahoo! Inc. and Yahoo! Hong Kong Holdings Limited, collectively; and
 •
 “US$,” “dollars” and “U.S. dollars” are to the legal currency of the United States.
-Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2036 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on June 30, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On September 5, 2014, the noon buying rate for Renminbi was RMB6.1400 to US$1.00.
+Our reporting currency is the Renminbi. This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader. Unless otherwise stated, all translations of Renminbi into U.S. dollars were made at RMB6.2036 to US$1.00, the exchange rate set forth in the H.10 statistical release of the Federal Reserve Board on June 30, 2014. We make no representation that the Renminbi or U.S. dollar amounts referred to in this prospectus could have been or could be converted into U.S. dollars or Renminbi, as the case may be, at any particular rate or at all. On September 12, 2014, the noon buying rate for Renminbi was RMB6.1344 to US$1.00.
 The number of our ordinary shares that will be outstanding after this offering is calculated based on 2,341,316,373 ordinary shares (which includes conversion of all outstanding convertible preference shares and 7,054,073 issued but unvested restricted shares as of June 30, 2014) outstanding as of June 30, 2014, and excludes:
 •
 53,692,833 ordinary shares issuable upon the exercise of outstanding options to purchase ordinary shares as of June 30, 2014;
@@ -527,7 +428,7 @@ no exercise by the underwriters of their option to purchase up to an additional 
 Table of Contents
 THE OFFERING
 Offering price
-We estimate that the initial public offering price will be between US$66.00 and US$68.00 per ADS.
+US$68.00 per ADS
 ADSs offered by us
 123,076,931 ADSs
 ADSs offered by the selling shareholders
@@ -549,7 +450,7 @@ Table of Contents
 Directed Share Program
 At our request, the underwriters have reserved up to 6% of the ADSs being offered by this prospectus (assuming exercise in full by the underwriters of their option to purchase additional ADSs) for sale at the initial public offering price to certain of our directors, executive officers, employees, business associates and members of their families. The directed share program will be administered by Credit Suisse Securities (USA) LLC. We do not know if these individuals will choose to purchase all or any portion of these reserved ADSs, but any purchases they do make will reduce the number of ADSs that are available to the general public. Any reserved ADSs that are not so purchased will be offered by the underwriters to the general public on the same terms as the other ADSs offered by this prospectus.
 Use of proceeds
-We estimate that we will receive net proceeds of approximately US$8,130 million from this offering, assuming an initial public offering price of US$67.00 per ADS, the mid-point of the estimated range of the initial public offering price shown on the cover page of this prospectus, after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. We plan to use the net proceeds we will receive from this offering for general corporate purposes.
+We estimate that we will receive net proceeds of approximately US$8,250 million from this offering, after deducting underwriting discounts and commissions and estimated offering expenses payable by us. We plan to use the net proceeds we will receive from this offering for general corporate purposes.
 We will not receive any of the proceeds from the sale of the ADSs by the selling shareholders.
 Risk factors
 See “Risk Factors” and other information included in this prospectus for a discussion of the risks relating to investing in our ADSs. You should carefully consider these risks before deciding to invest in our ADSs.
@@ -998,3 +899,101 @@ Add: Depreciation and amortization of property and equipment and land use rights
 243
 423
 68
+Add: Impairment of goodwill and intangible assets
+135
+175
+44
+7
+—  
+—  
+—  
+Add: Yahoo TIPLA amendment payment
+—  
+3,487
+—  
+—  
+—  
+—  
+—  
+Add: Equity-settled donation expense
+—  
+—  
+1,269
+205
+—  
+—  
+—  
+Adjusted EBITDA
+7,274
+16,607
+30,731
+4,954
+6,094
+8,574
+1,382
+The following table sets forth a reconciliation of our net income to adjusted net income for the periods indicated:
+Year ended March 31,
+Three months ended June 30,
+2012
+2013
+2014
+2013
+2014
+RMB
+RMB
+RMB
+US$
+RMB
+RMB
+US$
+(in millions)
+Net income
+4,665
+8,649
+23,403
+3,772
+4,448
+12,438
+2,005
+Add: Share-based compensation expense
+1,254
+1,259
+2,844
+458
+396
+1,073
+173
+Add: Amortization of intangible assets
+155
+130
+315
+51
+35
+234
+38
+Add: Impairment of goodwill, intangible assets and investments
+399
+420
+163
+27
+16
+—  
+—  
+Less: Gain on deemed disposals/disposals/ revaluation of investments (1)
+(21
+) 
+(76
+) 
+(384
+) 
+(62
+) 
+(312
+) 
+(6,428
+) 
+(1,037
+) 
+Add: Yahoo TIPLA amendment payment
+—  
+3,487
